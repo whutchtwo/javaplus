@@ -1,0 +1,88 @@
+/*
+Main
+**********************/
+body {
+	color:#444;	
+	font: .75em/1.5 Arial, Helvetica, sans-serif;
+	background: #fff url(/images/body-grad.jpg) center top repeat-x;
+
+}
+h1 {
+	color:$main-color;
+	font-weight:bold;
+	font-size: 3.085714em;
+	letter-spacing:	-1.38333px;
+	margin:.5em 0 .25em;
+	line-height:1.2;
+}
+h2, h3, h4 {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.71428571428571em;
+	font-weight:bold;	
+	letter-spacing:-1px;
+	line-height:1.3;
+	margin:0 0 12px;
+}
+h2 {
+	margin-bottom: 8px;
+}
+h3 {
+	color:#444;
+	font-size: 1.28571428571429em;
+	margin-bottom:10px;
+	
+	a {
+		color:#CA0000;
+		text-decoration:none;
+		
+		&:hover {color:$main-color}
+	}
+}
+h4 {
+	color:$main-color;
+	font-size: 1.28571428571429em;
+	margin-bottom:10px;
+}
+caption {
+	text-align:center;
+	@extend h3;	
+}
+figcaption {font-weight:bold}
+small {font-style:italic}
+aside {
+	h3 {
+		color: $main-color;
+		text-shadow: 0 1px 0 white;
+	}
+	h4 {
+		color:#000;
+		text-shadow: 0 1px 0 white;
+	}
+}
+a {
+	color:#AA0000;
+	&:hover {
+		color:#CA0000;
+		text-decoration:none;
+	}
+}
+ol {
+	list-style-position:outside;
+	list-style-type:decimal;	
+	margin:0 0 10px 22px;	
+	
+	&.inside {list-style-position:inside}
+}
+dt,dd {clear:both}
+p, ul, dt, dd {margin-bottom: .82em}
+strong {
+	color:#000;
+	font-weight:bold;
+}
+em {font-style:italic}
+blockquote {font-style:italic}
+#wrapper {
+	margin:auto;
+	width:960px;		
+}

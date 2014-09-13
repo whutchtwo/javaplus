@@ -1,0 +1,24 @@
+/*
+Testimonials
+**********************/
+#rotate {
+	background:$main-color;
+	color:#fff;
+	padding:10px;
+	text-shadow: 0 -1px 0 rgba(black,.7);
+	@include border-radius(5px);
+	@include box-shadow(rgba(black,.4), 0, 0, 5px);
+	
+	div {
+		p {		
+			font-size:0.9166666666666667em;
+			margin-bottom:0;
+			text-align:right;
+			
+			&:first-child {
+				font-style:italic;
+				text-align:left;
+			}
+		}
+	}
+}

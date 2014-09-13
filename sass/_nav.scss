@@ -1,0 +1,85 @@
+/*
+Nav
+**********************/
+#branding {	
+	border-bottom:1px solid #ccc;
+	padding:10px 10px 0;
+	position:relative;
+	z-index:1;
+	
+	nav {		
+		position:relative;
+		left: -18px;
+		
+		ul {@include inline-list}		
+		li {position:relative}
+		
+		a {
+			color:#777;	
+			float:left;
+			font-size:1.16666666666667em;
+			font-weight:bold;
+			padding:10px 18px;	
+			text-decoration:none;
+			
+			&:hover {color:#000}
+		}			
+	}
+	
+	h1 {
+		font-size:2em;
+		margin:0 0 15px;
+		a {
+			color: $main-color;
+			font-family: 'Open Sans Condensed', sans-serif;
+			font-size:2em;
+			line-height:1;
+			text-decoration:none;
+		}
+	}	
+
+	h4 {
+		@include text-shadow(white 0 1px 0);
+	}
+}
+#home #nav-home > a,
+#rfid #nav-rfid > a,
+#uid #nav-uid > a,
+#about #nav-about > a,
+#expediter #nav-expediter > a,
+#products #nav-products > a,
+#learning #nav-learning > a {
+	color:#000;
+}
+
+#cse-search-box {
+	position:absolute;
+	right:170px;
+	top:17px;
+	
+	input[type="submit"] {
+		color:#fff;		
+		@include button(2px, 2px, inline-block, normal);
+	}
+}
+.btn-1{		
+	position:absolute;
+	right:10px;
+	top:14px;
+	@include button(4px, 6px, block, bold);	
+	background:$main-color url(/images/lock_fill_12x16.png) no-repeat 5px center;
+	padding-left:20px;	
+	width:142px;
+}
+.btn-2{		
+	position:absolute;
+	right:10px;
+	top:14px;
+	@include button-2(4px, 6px, block, bold);	
+	background:$second-color url(/images/lock_fill_12x16.png) no-repeat 5px center;
+	padding-left:31px;
+}
+.b-left {
+	right:10px;
+	top:70px;
+}

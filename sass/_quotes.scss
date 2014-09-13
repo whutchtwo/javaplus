@@ -1,0 +1,25 @@
+/*
+Quotes
+**********************/
+#quotes {	
+	list-style:none;
+
+	li {		
+		text-shadow: 0 -1px 0 white;
+		@include border-radius(5px);
+		@include box-shadow(rgba(black, .15) 0 0 10px);
+		@include filter-gradient(#f2f2f2, #ffffff, vertical);
+		@include background-image(linear-gradient(top,  rgba(242,242,242,1) 0%,rgba(255,255,255,1) 100%));
+		background-color: rgb(242,242,242);
+		
+		border-top:1px solid white;
+		font-style: italic;
+		padding:10px;
+		display: inline-block;
+		float: left;
+		width: 270px;		
+		color:#333;
+		font-size:0.8571428571428571em;
+	}
+}
+

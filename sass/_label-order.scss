@@ -1,0 +1,110 @@
+td.big
+{
+    color: #000000;
+    font-weight: bold;
+    font-size: 14px;
+}
+td.small
+{
+    color: #000000;
+    font-weight: bold;
+    font-size: 10px;
+}
+td.smalllink
+{
+    font-size: 10px;
+}
+td img {
+    margin: 0;
+    padding: 0;
+}
+.whitetitle
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+}
+.tooltip
+{
+    padding-top: 8px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    background: url(images/help.gif) no-repeat right 50%;
+    color: #3366ff;
+    cursor: help;
+}
+.spantip
+{
+    position: relative;
+    padding-right: 20px;
+    background: url(images/help.gif) no-repeat right 50%;
+    color: #3366ff;
+    cursor: help;
+}
+.tooltipwrapper
+{
+    position: absolute;
+    top: 20px;
+    display: none;
+    width: 175px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 9pt;
+}
+.tooltiptop
+{
+    width: 175px;
+    height: 30px;
+    background: url(images/bubbletop.gif) no-repeat;
+}
+.tooltipmid
+{
+    padding-top: 8px;
+    padding-right: 15px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    background: url(images/bubblemid.gif) #a1d40a repeat-x 50% top;
+}
+.tooltipbtm
+{
+    height: 13px;
+    background: url(images/bubblebtm.gif) no-repeat;
+}
+#wrapper{ 
+    position:absolute; 
+    top: 50%; 
+    left:50%;
+    margin-left:-250px; 
+    width:500px;
+} 
+.process { 
+    background-color: gray; 
+    color: white; 
+    opacity: 0.9; 
+} 
+
+.breadcrumbs a:hover {text-decoration: underline;}
+.caps {text-transform: uppercase;}
+
+#spinner
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index:2;
+    display: none;
+    overflow: auto;
+    margin-top: -50px;
+    margin-left: -50px;
+    padding:10px;
+    width:120px;
+    height: 120px;
+    border:1px solid #666;
+    background:url(/pbrfid/images/processing1.gif) no-repeat center #fff;
+    text-align:center;
+    font:normal 16px tahoma, geneva, sans-serif;
+}
+
+

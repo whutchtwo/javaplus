@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129, RFID, UID - Partners - Compliance Label Service</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+    <meta content="MIL-STD-129, RFID, UID - Partners - Compliance Label Service" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="about">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer" class="partners">
+        <section>
+            <h1>Our Partners</h1>
+	        <ul>
+            	<li>
+                    <figure>
+                        <img src="/images/partner_logo_alien.gif" width="140" height="73" alt="Alien">
+                    </figure>
+                    <p><strong><a href="http://www.alientechnology.com/">Alien Technology</a></strong> is a leading supplier of radio frequency identification (RFID) hardware that enables DoD suppliers, consumer packaged goods companies, retailers and other industries to improve their operational efficiency throughout their supply chains.</p>
+                </li>
+                <li>
+                    <figure>
+                        <img src="/images/partner_logo_avery.gif" width="140" height="73" alt="Avery Dennison">
+                    </figure>
+                    <p><strong><a href="http://rfid.averydennison.com/about-rfid/">Avery Dennison RFID Division</a></strong> is among the Company's diverse portfolio of industrial and consumer products businesses. We leverage Avery Dennison's expertise in high volume, roll-to-roll manufacturing and production of multi-layered electronic labels to produce high-quality RFID inlays — the critical link in any RFID system. Avery Dennison works with industry leaders throughout the RFID value chain, including micro-chip and hardware manufacturers, to maximize the compatibility of the inlays we produce.</p>
+                </li>
+                <li>
+                    <figure>
+                        <img src="/images/partner_logo_bartender.gif" width="140" height="73" alt="BarTender">
+                    </figure>
+                    <p><strong><a href="http://www.seagullscientific.com/aspx/products.aspx">Seagull Scientific's BarTender</a></strong> Software for Windows delivers on-screen WYSIWYG display and expanded printer support to make custom label production quick and easy. The BarTender Software lets you create barcodes, text and graphics with the single click of a mouse button. Just click again to move an object or resize it. Because you see on screen 	exactly what will print out, you can be sure your labels will print out right the first time.</p>
+                </li>                
+                <li>
+					 <figure>
+                     	<img src="/images/partner_logo_lxe.gif" width="140" height="73" alt="LXE">
+                     </figure>               
+                     <p><strong><a href="http://www.lxe.com/">LXE, Inc.</a></strong> drives supply chain excellence by applying over 36 years of experience developing and installing rugged wireless computers and RF networks. Our data collection solutions have delivered dramatic improvements in inventory tracking and control for thousands of customers all over the world, from the East Coast to the Pacific Rim and virtually everywhere in between.</p>
+                </li>                
+                <li>
+                	<figure>
+                    	<img src="/images/partner_logo_printronix.gif" width="140" height="73" alt="Printronix">
+                    </figure>
+                    <p><strong><a href="http://www.printronix.com/">Printronix Inc</a></strong> enables printing technologies for the industrial marketplace and distribution supply chain. Expert at adapting new technologies to create innovative programs, the company offers the next generation of RFID products and services. Printronix's RFID SmartT technology solutions will fast track adoption of RFID and unblock implementation barriers IT professionals face.</p>
+                </li>
+                <li>
+                	<figure>
+                    	<img src="/images/partner_logo_symbol.gif" width="140" height="73" alt="Symbol">
+                    </figure>
+                    <p>For over 30 years, <strong><a href="http://www.motorola.com/Business/US-EN/Product+Lines/Symbol">Symbol Technologies/Motorola</a></strong> has been at the forefront of innovation, offering customers mobility solutions to help operate their enterprises more efficiently. Founded in 1975, Symbol is a global, $1 billion+ company with headquarters in the United States and operations in more than 50 countries.</p>
+                </li>
+                <li>
+                	<figure>
+                    	<img src="/images/partner_logo_unitech.gif" width="140" height="73" alt="Unitech">	
+                    </figure>
+                    <p><strong><a href="http://www.ute.com/">Unitech, Inc.</a></strong>	was founded in 1979 to provide the market with customized microprocessor-based automation systems. For the past twenty years, Unitech has been focusing on automatic data collection products and services to enhance productivity and efficiency. In 1985 we successfully launched our AIDC product lines, which have been growing ever since. Today, we manufacture a full range of AIDC products, including barcode scanners, magnetic card readers, portable and fixed terminals, and a variety of keyboard products.</p>
+                </li>
+                <li>
+                	<figure>
+                    	<img src="/images/partner_logo_zebra.gif" alt="Zebra" width="140" height="73" border="0">
+                    </figure>
+                    <p><strong><a href="http://www.zebra.com/">Zebra Technologies</a></strong> is a leading global provider of rugged and reliable specialty printing solutions, including on-demand thermal bar code label and receipt printers and supplies, plastic card printers, RFID smart label printer/encoders, certified smart media, and digital photo printers. Zebra solutions are used by more than 90 percent of Fortune 500 and global 2000 companies to improve business processes, increase productivity, and strengthen security.</p>
+                </li>
+            </ul>
+      	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

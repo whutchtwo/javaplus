@@ -1,0 +1,111 @@
+<dl class="expand">
+    <dt><a href="#">What is RFID?</a></dt>
+    <dd>Radio Frequency Identification (RFID) is an automatic identification technology in which data is transferred wirelessly via radio waves between transponders, called RFID tags or RFID labels, and RFID readers. This data transfer is performed in milliseconds, without human involvement (i.e. hands free) and without line of sight. RFID tags can signal their presence, unique identity, location and other user-defined information. RFID tags vary in amount of memory, power, durability, size and frequency. Passive tags have no internal power source, whereas active tags have a battery on board. For tracking cases and pallets in the supply chain, DoD mandates the use of 96 bit, passive RFID tags which conform to the EPC UHF Class 1 Gen 2 standard.</dd>
+    
+    <dt><a href="#">Why has RFID technology been implemented in 
+    the DoD Supply Chain?</a></dt>
+    <dd>(Excerpted from <a href="http://www.acq.osd.mil/log/rfid">www.acq.osd.mil/log/rfid</a>)
+    <p>The implementation of RFID enables the improvement of data quality, item management, asset visibility, and maintenance of material. RFID addresses a key challenge that has been observed at every node within the DoD supply chain - lack of visibility of logistics data. The use of RFID in the DoD supply chain has the potential to provide real benefits in inventory management, asset visibility and interoperability in an end-to-end integrated environment. RFID encapsulates the data accuracy advantages inherent in all types of Automatic Identification Technology (AIT). Additionally, RFID is a non-intrusive methodology for data capture (requires no human intervention), and, unlike barcodes, does not require line-of-sight to be read. RFID is a key technology enabler for the DoD logistics business transformation and supports long-term integration of Item Unique Identification (IUID) into the DoD end-to-end supply chain. RFID (both active and passive) is required by DoD to:</p>
+        <ol>
+            <li>Provide near real-time in-transit visibility for all classes of supplies and material.</li>
+            <li>Provide "in the box" content level detail for all classes of supplies and material.</li>
+            <li>Provide quality, non-intrusive identification and data collection that enables enhanced inventory management.</li>
+            <li>Provide enhanced unit pack level visibility.</li>
+        </ol>
+    </dd>
+    
+    <dt><a href="#">What is the DoD's RFID policy?</a></dt>
+    <dd><p>MIL-STD-129 and DFARS 252.211-7006 require you to affix passive RFID tags at the case (i.e. shipping/exterior container) and pallet level for shipments of specific commodities to specific locations. (See the two next questions for the specified commodities and locations.) The DoD also requires the RFID numbers of each case and pallet bearing RFID labels to be sent in an Advanced Shipment Notice to WAWF. This appends the RFID numbers to the WAWF Receiving Report of the associated DoD contract. It can be done via manual data entry or electronically.</p></dd>
+    
+    <dt><a href="#">Which commodities or Federal Supply Classes require RFID labels?</a></dt>
+    <dd><strong>The commodity being shipped must have RFID if it is in the following Classes of Supply:</strong>
+    <ul>
+        <li>Subclass of Class I - Packaged operational rations.</li>
+        <li>Class II - clothing, individual equipment, tentage, organizational tool kits, hand tools, and administrative and housekeeping supplies and equipment.</li>
+        <li>Class IIIP - Packaged petroleum, lubricants, oils, preservatives, chemicals, and additives.</li>
+        <li>Class IV - Construction and barrier materials.</li>
+        <li>Class VI - Personal demand items (non-military sales items).</li>
+        <li>Subclass of Class VIII - Medical materials (excluding pharmaceuticals, biologicals, and reagents - suppliers should limit the mixing of excluded and non-excluded materials).</li>
+        <li>Class IX - Repair parts and components including kits, assemblies and subassemblies, reparable and consumable items required for maintenance support of all equipment, excluding medical-peculiar repair parts.</li>
+    </ul>			
+    For a list of Federal Supply Classes and the year the RFID mandate began for each Class, see: <a href="http://www.acq.osd.mil/log/rfid/Class_of_supply_lookup_tool.htm">www.acq.osd.mil/log/rfid/Class_of_supply_lookup_tool.htm</a></dd>
+    
+    <dt><a href="#">Which 'ship to' locations require RFID?</a></dt>
+    <dd>DFARS 252.211-7006 lists the following 'ship to' destinations as requiring RFID. (However, you must read your individual contract carefully, because additional locations requiring RFID may be identified for specific shipments.) Click for a printable version of the list.
+    <ul>
+        <li>New Cumberland / Susquehanna, PA  W25G1U, SW3124</li>
+        <li>Tracy / San Joaquin, CA W62G2T, SW3224</li>
+        <li>Albany, GA SW3121</li>
+        <li>Anniston, AL W31G1Z, SW3120</li>
+        <li>Barstow, CA SW3215</li>
+        <li>Cherry Point, NC SW3113</li>
+        <li>Columbus, OH  SW0700</li>
+        <li>Corpus Christi, TX W45H08, SW3222</li>
+        <li>Hill, UT SW3210</li>
+        <li>Jacksonville, FL SW3122</li>
+        <li>Oklahoma City, OK SW3211</li>
+        <li>Norfolk, VA SW3117</li>
+        <li>Puget Sound, WA SW3216</li>
+        <li>Red River, TX W45G19, SW3227</li>
+        <li>Richmond, VA SW0400</li>
+        <li>San Diego, CA SW3218</li>
+        <li>Tobyhanna, PA W25G1W, SW3114</li>
+        <li>Warner Robins, GA SW3119</li>
+        <li>Charleston AFB, SC CHS</li>
+        <li>Naval Air Station, Norfolk, VA NGU</li>
+        <li>Travis AFB, Fairfield, CA SUU</li>
+        <li>Locations outside the contiguous US with Transportation 
+        Priority 1</li>
+    </ul>
+    </dd>
+    
+    <dt><a href="#">Which boxes and pallets require RFID?</a></dt>
+    <dd><p>When shipping to a location that requires RFID, you must place an RFID label on every outermost box of the shipment. This is true when the outermost box (i.e. shipping container) is on a shrink-wrapped pallet or when the outermost box is an individual case. In addition, when shipping to a location that requires RFID, you must place and RFID label on all shrink-wrapped pallets. Whenever a shrink-wrapped pallet requires a Military Shipping Label (MSL), it also requires an RFID tag. In summary, when RFID tags are required, they must be applied at the case (exterior container or shipping container) and pallet (palletized unit load) levels.</p></dd>
+    
+    <dt><a href="#">What are the technical specifications for passive 
+    RFID tags?</a></dt>
+    <dd>Since March 1, 2007, the DoD has only accepted UHF Class 1 Gen 2 EPC RFID tags. Their frequency range is 860 to 960 MHz, with a minimum read range of 3 meters. The EPC Class 1 Gen 2 standard has been ratified by the International Organization for Standardization (ISO) as 18000-6C. ISO/IEC 18000-6:2004 defines the air interface for radio-frequency identification (RFID) devices operating in the 860 MHz to 960 MHz Industrial, Scientific, and Medical (ISM) band used in item management applications.</dd>
+    
+    <dt><a href="#">What data is required to be encoded on the RFID tag?</a></dt>
+    <dd>The required data consists of a Header, Filter, Government Managed Identifier (or CAGE code) and Serial Number. This "serial number" does not refer to the serial number of the product being shipped. Rather, this "serial number" is a unique number assigned to a specific case or pallet. This number must be unique. It is never acceptable to repeat a tag ID across two or more passive RFID tags.</dd>
+    <dd><table>
+    <tr>
+        <th colspan="4">DoD-96 Identity Type</th></tr>
+    <tr>
+        <td>Header</td>
+        <td>Filter</td>
+        <td>Government Managed Identifier </td>
+        <td>Serial Number</td>
+    </tr>
+    <tr>
+        <td>8 bits</td>
+        <td>4 bits</td>
+        <td>48 bits</td>
+        <td>36 bits</td>
+    </tr>
+    </table></dd>
+
+    <dt><a href="#">What is Wide Area Workflow (WAWF)?</a></dt>
+    <dd><p>Wide Area Workflow (WAWF) is the DoD's secure web-based system for electronic invoicing, government inspection, receipt and acceptance. It enables electronic form submission, processing and acceptance. It creates a virtual folder housing all contact-related documents and sign-offs required to pay a vendor including the contract, invoice and Receiving Report. Authorized DoD users are notified of pending actions by e-mail and are presented with a collection of documents required to process a contracting or financial action. WAWF has reduced the number of days it takes for DoD contractors to get invoices approved and paid by. Resources can be found on the web at <a href="http://www.wawftraining.com">www.wawftraining.com</a> and <a href="#">wawf.eb.mil</a>.</dd>
+    
+    <dt><a href="#">What is the ASN requirement for RFID?</a></dt>
+    <dd><p>Sending an Advanced Ship Notice (ASN) to WAWF is the second part of the RFID regulation per RFID DFARS clause, 252.211-7006. The ASN is not a new process. It just adds the submission of RFID data to the Material Inspection Receiving Report (MIRR) sent to WAWF. MIRR is the on-line version of the now defunct, paper DD250. The RFID data are the 24 characters encoded on the RFID chip and printed on the Military Shipping Label or Exterior Container Label of every case and pallet of each shipment. For example: 2F1203337515435000000017.</p></dd>
+    
+    <dt><a href="#">If a contractor is awarded a contract and selects a partner (with a different CAGE) to manufacture the product, is the Prime Contractor's CAGE or the Subcontractor's CAGE used on the RFID tag?</a></dt>
+    <dd><p>The CAGE of the entity who ships the product should be used on the tag.</p></dd>
+    
+    <dt><a href="#">What are the basic labels required by MIL-STD-129?</a></dt>
+    <dd><p>MIL-STD-129 requires Unit Container labels, Intermediate Container labels, Exterior Container labels and Military Shipping labels.</p></dd>
+    <dd><p><img src="/images/label_unit_container_180x114.jpg" width="180" height="114" alt="Label Unit Container" class="right">Unit Container labels bear data and Code 39 linear barcodes specified by MIL-STD-129 including NSN, CAGE, Part Number, Description, Quantity, Unit of Issue, Contract number, Preservation Method and Date of Preservation. Intermediate Container labels bear the same information.</p>
+    </dd>                
+    <dd><p><img src="/images/label_exterior_container_180x236.jpg" width="180" height="236" alt="Label Exterior Container" class="right">Exterior Container labels include contract and content data and several Code 39 linear barcodes specified by MIL-STD-129.</p></dd>                
+    <dd><p><img src="/images/label_mil_ship_4by6.gif" width="200" height="300" alt="Label Mil Ship" class="right">Military Shipping labels (MSL's) include 'ship from' and 'ship to' address data, several Code 39 linear barcodes and a large PDF417 2-D barcode.</p></dd>				
+    
+    <dt><a href="#">For a palletized load, what are the requirements for MIL-STD-2073 container levels and MIL-STD-129 labels?</a></dt>
+    <dd><p><a href="/images/palleted_labels.jpg" title="Palleted Label Placements" rel="lightbox"><img src="/images/palleted_nolabel.gif" width="336" height="400" alt="Palleted Label Placements" class="right"></a>MIL-STD-2073 describes a 'Russian doll' arrangement of Unit Containers, Intermediate Containers, and Exterior Containers as indicated in the graphic below. Your contract contains MIL-STD-2073 codes which indicate the level of packaging and type of containers specified for your shipments. <a href="http://compliancelabelservice.com/images/palleted_labels.jpg">Click here to see the required MIL-STD-129 labels.</a></p>
+    <small>Click image to see diagram with required label placements</small></dd>
+    
+    <dt><a href="#">For a non-palletized load (e.g. an individual container, case, box or crate) what are the requirements for MIL-STD-2073 container levels &amp; MIL-STD-129 labels?</a></dt>
+    <dd><p><a href="/images/unpallet_labelled.jpg" title="Unpalleted Label Placements" rel="lightbox"><img src="/images/unpallet_nolabel.gif" width="432" height="528" alt="Unpalleted Label Placements" class="right"></a>MIL-STD-2073 describes a 'Russian doll' arrangement of Unit Containers, Intermediate Containers, Exterior Containers, and pallet as indicated in the graphic below. Your contract contains MIL-STD-2073 codes which indicate the level of packaging and type of containers specified for your shipments.</p>
+    <small>Click image to see diagram with required label placements</small></dd>
+</dl>

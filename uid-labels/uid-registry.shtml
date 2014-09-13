@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>UID Registry - UII upload to DoD IUID Registry - Fast, Reliable</title>
+    <!--#include virtual="/common/header-1.shtml" -->
+    <meta content="UID Registry, IUID Registry, Register UII, Register UII's, DFARS 252.2111-7003" name="keywords">
+    <meta content="UID Registry - UII upload to DoD IUID Registry - Fast, Reliable" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="uid">
+<div id="wrapper">
+<!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+			<h1>Make submitting to the IUID Registry easy</h1>
+			<p><img src="/images/uid-reg-collage.gif" width="292" height="214" class="left">The IUID Registry is DoD's central repository for all UID data.  DFARS 252.211-7003 requires DoD suppliers to submit all UII's (i.e. UID numbers). Typing at WAWF or the IUID Registry is error prone, frustrating and time consuming.  <em>EXPEDITER</em>&trade; IUID Registry service replaces hours of typing with a single electronic submission to the IUID Registry. See <a href="/resources/CLSUIDRegistryService.pdf">brochure</a>.</p>
+			<h2>UID's submitted in 48 hours</h2>
+			<p>Within 48 hours of collecting the required data, EXPEDITER&trade; UID Registry Service submits it to the IUID Registry via Electronic Data Interchange. Done!</p>
+			<p><a href="/pbrfid/newRegistration.do" class="int-btn">Get started, call 617-314-7700</a></p>
+			<h2>Low prices</h2>
+			<p><img src="/images/new-stock/mapping-it-out.jpg" width="300" height="200" class="img-shdw right">One UID number or thousands. The set up charge of $24.95 and the 'per UID' price are among the lowest in the industry.</p>
+            
+            <table class="striped half">
+            <tr>
+            	<th>Qty Bracket</th>
+                <th>Each UID</th>
+            </tr>
+            <tr>
+            	<td>1 - 250</td>
+                <td>$0.99</td>
+            </tr>
+            <tr>
+            	<td>251 - 500</td>
+                <td>$0.89</td>
+            </tr>
+            <tr>
+            	<td>501 - 1000</td>
+                <td>$0.79</td>
+            </tr>
+            <tr>
+            	<td>1001 - 5000</td>
+                <td>$0.69</td>
+            </tr>
+            <tr>
+            	<td>5001 - 10000</td>
+                <td>$0.59</td>
+            </tr>
+            </table>
+            <h2>IUID Registry FAQ's</h2>
+            <strong>What is the Item Unique Identification (IUID) Registry?</strong>
+            <ul>
+                <li>The IUID Registry is the DoD's central repository for all IUID data and serves to identify:</li>
+                <li>What the item is</li>
+                <li>How and when it was acquired</li>
+                <li>The initial value of the item</li>
+                <li>Current custody (government or contractor)</li>
+                <li>How it is marked</li>
+            </ul>
+            
+            <strong><img src="/images/new-stock/nose-up-loading.jpg" width="200" height="300" class="right img-shdw">Who is responsible for Registering IUID's for New Procurement?</strong>
+            <p>In accordance with DFARS 252.211-7003, the prime contractor has the responsibility to submit Unique Item Identifiers (UIIs) and to provide the IUID data for items that are delivered under a DoD contract.</p>            <strong>Who is responsible for Registering IUID's for GFE?</strong>
+            <p>In accordance with DFARS 252.211-7007, the prime custodial contractor has the responsibility to submit UIIs and to provide the IUID data for all Government Furnished Equipment (GFE) that meets IUID policy criteria.</p>
+            <strong>How many items are in the IUID Registry?</strong>
+            <p>More than 8.9 million items have been registered; 40% of those items were delivered in 2009 and the pace of registration has accelerated.  DoD estimates the entire qualifying inventory at about 90 million items.</p>
+            <!--#include virtual="/common/quotes.shtml" -->
+   	  </section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

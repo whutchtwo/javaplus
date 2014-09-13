@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Make Advanced Ship Notices (ASN) to WAWF easy for DoD shipments</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="Advanced Ship Notice, ASN, WAWF, military shipments, DoD shipments" name="keywords">
+    <meta content="Make Advanced Ship Notices (ASN) to WAWF easy for DoD shipments" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="expediter">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+			<h1>Make Advance Ship Notices (ASN) easier</h1>
+            <h2><img src="/images/new-stock/young-marksman.jpg" width="300" height="230" alt="Compliance Label Services" class="img-shdw left">DoD requires RFID numbers be input at WAWF</h2>
+            <p>DFARS 252.211-7006  requires the RFID numbers of every case and pallet bearing RFID to be appended to your Receiving Report at WAWF.   Manual 'fat-fingering' of the 24 character RFID data strings can be done, but it's...</p>
+            <ul>
+            	<li>Time consuming and error-prone</li> 
+                <li>Inconvenient as WAWF forces you to complete all data entry in a single session</li>
+                <li>Deeply frustrating when WAWF terminates your session without cause or warning and you have to start all over again.  It just makes you want to shoot something.</li>
+            </ul>
+            
+            
+            <div class="left half clear-l" style="margin:0;">
+            	<h2 class="left"><em>EXPEDITER</em> ASN makes it easy</h2>
+            	<p class="clear-l"><strong><em>EXPEDITER</em> ASN</strong> replaces hours of typing and frustration with a single electronic data submission of your Advance Shipment Notice (ASN) to WAWF.</p>
+                <table class="striped left half" style="margin:0;">
+                <caption><em>EXPEDITER</em> ASN Pricing</caption>
+                <tr class="nobg">
+                    <th>Total Quantity of Cases and Pallets</th>
+                    <th>Price</th>
+                </tr>
+                <tr>
+                    <td>1 - 10</td>
+                    <td>$9.95</td>
+                </tr>
+                <tr>
+                    <td>11 - 100</td>
+                    <td>$14.95</td>
+                </tr>
+                <tr>
+                    <td>101 - 1,000</td>
+                    <td>$24.95</td>
+                </tr>
+                <tr>
+                    <td>1,001 - 5,000</td>
+                    <td>$44.95</td>
+                </tr>
+                <tr>
+                    <td>&gt; 5,000</td>
+                    <td>Call us</td>
+                </tr>
+                </table>
+                <p><a href="/pbrfid/contactus.do" class="int-btn ctr-text right" style="margin-top:104px;">Call us (617) 314-7700<br>with any questions</a></p>
+                <p class="clear">Note:<br>
+                Save! Pick as many shipments as you like from as many different contracts anmd orders. We upload all of them to WAWF for one low fee based on the total number of cases and pallets.  Pricing is subject to change.</p>
+                <h4>How <em>EXPEDITER</em> ASN works</h4>
+                <p>After each purchase of <em>EXPEDITER</em> RFID labels, we email an <em>EXPEDITER</em> ASN link. With a few clicks, you tell us which ASNs to upload to WAWF and when. We track which ASNs have been uploaded and which have not. Within 1 business day, we upload ASNs for every shipment of any contract and any order you selected.</p>            
+                <h4><em>EXPEDITER</em> ASN reminder emails</h4>
+                <p>Don't hunt for your <em>EXPEDITER</em> ASN email, another will come as often as you want (or not at all). You decide how often at your <em>EXPEDITER</em> account.</p>
+                <h4><em>EXPEDITER</em> ASN/Self service</h4>
+                <p>Don't want reminder emails...no problem. Your <em>EXPEDITER</em> ASN waits for you 24x7 at your <em>EXPEDITER</em> account.</p>
+            </div>
+			<div class="right" style="width:45%; margin:0;">
+            	<img src="/images/new-stock/help.jpg" class="ctr img-shdw" width="300" height="200" alt="Compliance Label Services">
+                <h4>FAQ's</h4> 
+                <p><strong>How does <em>EXPEDITER</em> ASN get my RFID data to the right place?</strong><br>
+                When you sign up for <em>EXPEDITER</em> you give us your WAWF User ID which serves as the electronic address for your data.</p>            
+                <p><strong>Does Compliance label Service access my WAWF account?</strong><br>
+                No. We do not have your WAWF password and thus cannot access your WAWF account.</p>
+                <p><strong>What method do you use to upload the data to WAWF?</strong><br>
+                We use an 856 Electronic Data Interchange (EDI) transmission via a Value Added Network (VAN).</p>
+			</div>
+       	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

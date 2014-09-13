@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129 labels, UID labels & RFID - Low Price, Best ServiceHome</title>
+	<!--#include virtual="/common/header.shtml" -->
+<body id="home">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+			<h1>We're sorry the requested page was not found.</h1>
+            <h2>This may be a result of changes to our web site to better serve you.</h2>
+            <p>Please visit our home page at <a href="/">www.compliancelabelservice.com</a> or click <a href="/pbrfid/myCompliance.do">here</a> to go directly to <a href="/pbrfid/myCompliance.do"><em>EXPEDITER</em> Account</a> center.</p>
+            <h3>Don't forget to bookmark us!</h3>
+            <p>Compliance Label Service is a Division of <a href="http://www.productivitybyrfid.com/">Productivity by RFID, LLC.</a>. We provide RFID, Container and UID labels, WAWF services and compliance systems to suppliers of the Department of Defense.</p>
+        </section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

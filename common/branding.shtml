@@ -1,0 +1,85 @@
+<header id="branding">
+    <hgroup>
+	    <h1><a href="/">Compliance Label Service</a></h1>        
+    	<h3>MIL-STD-129 labels, UID labels, RFID and DoD / GSA compliance services</h3>
+    	    <span style="display: inline-block;">
+			<div class="fb-like" data-href="https://www.facebook.com/compliancelabelservice" data-layout="standard" 
+				data-action="like" data-show-faces="false" data-share="true"></div>
+			</span>
+			<span style="display: inline-block;">
+				<div id="fb-root"></div>
+			</span>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  js.async=true;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    </hgroup>
+    <nav class="cf">
+    <ul class="dropdown">
+        <li id="nav-home"><a href="/">Home</a></li>
+        <li id="nav-rfid"><a href="/rfid-labels/">MIL-STD-129 Labels &amp; RFID</a>
+        	<ul class="sub-menu">
+	            <li><a href="/rfid-labels/">Make MIL-STD-129 easier</a></li>
+                <li><a href="/pbrfid/rfid_labels/asn.jsp">MAKE ASN's easier</a></li>
+                <li><a href="/rfid-labels/label-choices.shtml">Label Choices</a></li>
+                <li><a href="/rfid-labels/u-print.shtml">Print labels today</a></li>
+                <li><a href="/rfid-labels/stick.shtml">Where to stick it</a></li>
+                <li><a href="/pbrfid/rfid_labels/pricing.jsp">Pricing</a></li>
+                <li><a href="/pbrfid/rfid_labels/quickquote.jsp">Quick Quote</a></li>
+            </ul> 
+        </li>
+        <li id="nav-uid"><a href="/uid-labels/">UID Labels</a>
+        	<ul class="sub-menu">
+	            <li><a href="/uid-labels/">Make MIL-STD-130 easier</a></li>   
+                <li><a href="/uid-labels/howtobuy.shtml">How to Buy a UID Label</a></li>               
+                <li><a href="/uid-labels/construct.shtml">Construct and Format</a></li>            	
+                <li><a href="/uid-labels/stainless-steel.shtml">Stainless Steel</a></li>
+                <li><a href="/uid-labels/photo-anodized-aluminum.shtml">Photo Anodized Aluminum</a></li>
+                <li><a href="/uid-labels/tesa-secure.shtml">tesa&reg; Secure&trade;</a></li>
+                <li><a href="/uid-labels/polymide.shtml">Polyimide or Kapton&reg;</a></li>
+                <li><a href="/uid-labels/polyester.shtml">Polyester</a></li>
+                <li><a href="/pbrfid/uid_labels/uid-registry.jsp">UID Registry</a></li>
+            </ul>
+        </li>
+        <li id="nav-products"><a href="/products/">Products and Services</a>
+        	<ul class="sub-menu">
+	            <li><a href="/products/">Offerings</a></li>
+                <li><a href="/products/expediter-ftrs.shtml"><em>EXPEDITER</em>&trade; Features</a>
+                <li><a href="/products/faqs.shtml"><em>EXPEDITER</em>&trade; FAQs</a>
+                <li><a href="/products/packaging.shtml">GuidedPackaging</a></li>
+            </ul>
+        </li>
+        <li id="nav-learning"><a href="/learning-center/">MIL-STD Compliance</a>
+        	<ul class="sub-menu">
+	            <li><a href="/learning-center/">Learning Center</a></li>
+                <li><a href="/learning-center/129-rfid-compliance.shtml">MIL-STD-129 &amp; RFID Compliance</a></li>
+                <li><a href="/learning-center/130-uid-compliance.shtml">UID &amp; MIL-STD-130 Compliance</a></li>
+                <li><a href="/learning-center/dod.shtml">DoD Regulations &amp; Resources</a></li>
+            </ul>
+        </li>			
+        <li id="nav-about"><a href="/about/">About Us</a>
+        	<ul class="sub-menu">
+	            <li><a href="/about/">History</a></li>
+                <li><a href="/about/customers.shtml">Customers</a></li>
+                <li><a href="/about/partners.shtml">Partners</a></li>
+                <li><a href="/pbrfid/contactus.do">Contact Us</a></li>
+            </ul>
+        </li>
+    </ul>
+    </nav>    
+    <a href="/pbrfid/myCompliance.do" class="btn-2 b-left"><em>EXPEDITER</em> Login</a>
+    <a href="/pbrfid/newRegistration.do" class="btn-1 txt-c">Free! Get started<br/><em>EXPEDITER</em></a>
+    <form id="cse-search-box" action="/search.shtml">
+    <input type="hidden" value="016669813359688099330:ercayz8er-o" name="cx">
+    <input type="hidden" value="FORID:10" name="cof">
+    <input type="hidden" value="UTF-8" name="ie">
+    <input type="text" size="20" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);">
+    <input type="submit" value="Search" name="sa">
+    <input type="hidden" name="siteurl" value="72.167.244.124/rfid_labels/overview.htm">
+    </form>
+</header>

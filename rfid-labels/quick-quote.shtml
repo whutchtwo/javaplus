@@ -1,0 +1,202 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129 labels and RFID - Try our Low Prices, Best Service</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, military shipping label, DoD RFID label, unit container labels, exterior container labels" name="keywords">
+    <meta content="MIL-STD-129 labels and RFID - Try our Low Prices, Best Service" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="rfid">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+            <h1><em>EXPEDITER</em> MIL-STD-129 Quick Quote</h1>
+            <p><img src="/images/f22-raptor.jpg" class="right img-shdw">Fill out the interactive form below and get an immediate quote for EXPEDITER MIL-STD-129 labels. If you have any questions, call 617-314-7700. We're pleased to help!</p>
+
+            <!-- QUICK QUOTE FORM -->
+            <form action="#" method="" name="quick-quote" class="clear" id="quick-quote">
+            <fieldset>
+            <!-- QUANTITY -->
+            <p><label for="quantity-1">Quantity of Contract Line Items (CLIN’s):</label>
+            <select name="quantity-1" id="quantity-1">
+            <option value="1" selected>1</option>    
+            <option value="2 or more">2 or more</option>    
+            </select></p>
+            <!-- //QUANTITY -->
+            
+            <!-- RFID REQ -->
+            <p><label for="rfid-req-1">Does any shipment require RFID?</label>
+            <select name="rfid-req-1" id="rfid-req-1">
+            <option value="YES">YES</option>    
+            <option value="NO">NO</option>
+            </select> <a href="/learning-center/129-rfid-compliance.shtml">Check 'Ship To's' requiring RFID by DFARS</a></p>
+            <!-- //RFID REQ -->
+
+            <!-- HOW ARE SHIPMENTS PACKAGED -->
+            <p><label for="howship-1">How are shipments packaged?</label>
+            <input type="checkbox" value="individual" name="howship-1"> Individual shipping containers, boxes, crates, reels, etc. <a href="#">Info</a><br>
+            <input type="checkbox" value="pallets" name="howship-1"> Containers on Pallets, aka Palletized Load <a href="#">Info</a></p> 
+            <!-- //HOW ARE SHIPMENTS PACKAGED -->
+            </fieldset>
+            
+            <!--*** PACKAGE #1 ***-->
+            <fieldset>
+            <legend>For individual Shipping Containers, MIL-STD-129 requires:</legend>
+            <!-- QUESTION 1 -->
+            <p><label for="pack-1a">Do you want to buy it?</label>
+            <select name="pack-1a" id="pack-1a">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <span><strong>[ ] Military Shipping Label</strong> per individual Shipping Container. RFID is embedded if selected above.</span></p>
+            <!-- //QUESTION 1 -->
+
+            <!-- QUESTION 2 -->
+            <p><label for="pack-1b">Do you want to buy it?</label>
+            <select name="pack-1b" id="pack-1b">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Exterior Container Label</strong> per individual Shipping Container <a href="#">Info</a></p>
+            <!-- //QUESTION 2 -->
+
+            <!-- QUESTION 3 -->
+            <p><label for="pack-1c">Do you want to buy it?</label>
+            <select name="pack-1c" id="pack-1c">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Unit Container Label</strong> per QUP - Quantity per Unit Pack</p>
+            <!-- //QUESTION 3 -->
+
+            <!-- QUESTION 4 -->
+            <p><label for="pack-1d">Do you want to buy it?</label>
+            <select name="pack-1d" id="pack-1d">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Intermediate Container Label</strong> per Intermediate Container when used</p>
+            </fieldset>
+            <!-- /QUESTION 4 -->
+
+            <!-- SHIPPING CONTAINER QUANTITY  -->
+            <fieldset>
+            <p><label for="shipcontqty-1">Shipping Container Quantity</label>
+            <input type="text" value="0" id="shipcontqty-1" name="shipcontqty-1"></p>
+            </fieldset>
+            <!-- //SHIPPING CONTAINER QUANTITY -->
+
+            <!--  QUANTITY OF ITEMS IN LAST CONTAINER  -->
+            <fieldset>
+            <p><label for="lastcontqty-1">Quantity of items in last Container:</label>
+            <input type="text" value="0" name="lastcontqty-1" id="lastcontqty-1"> Whole numbers only</p>
+            
+            <p><label for="lastcontqtylbs-1">Last Container Weight in Pounds:</label>
+            <input type="text" value="0" name="lastcontqtylbs-1"> Round up to the next whole number</p>
+            
+            <p><label for="lastcontcubft-1">Last Container Cubic Foot:</label>
+            <input type="text" value="0" name="lastcontcubft-1" id="lastcontcubft-1"> L(in):<input type="text" name="lastcontcubft-l-1" value="" class="small">  W(in):<input type="text" name="lastcontcubft-w-1" value="" class="small">  H(in):<input type="text" name="lastcontcubft-h-1" value="" class="small"></p>
+            </fieldset>
+            <!-- //QUANTITY OF ITEMS IN LAST CONTAINER -->
+
+            <!-- UNIT CONTAINER QTY -->
+            <fieldset>
+            <p><label for="unitcontqty-1">Unit Container Quantity</label>
+            <input type="text" id="unitcontqty-1" value="1"> Call us if you can’t find the QUP of your contract.<br>
+            <label for="qtyitemslastcont-1">Quantity of items in last Unit Container</label>
+            <input type="text" id="qtyitemslastcont-1" value="0"> Whole numbers only</p>
+            </fieldset>
+            <!-- //UNIT CONTAINER QTY -->
+            
+            <!-- INTERMEDIATE CONTAINER QTY -->
+            <fieldset>
+            <p><label for="intcontqty-2">Intermediate Container Quantity</label>
+            <input type="text" id="intcontqty-2" value="1"></p>
+            </fieldset>
+            <!-- //INTERMEDIATE CONTAINER QTY -->
+
+            <!--*** //PACKAGE #1 ***-->
+            
+            <!--*** PACKAGE #2 ***-->
+            <fieldset>
+            <legend>For Containers on Pallets, MIL-STD-129 requires:</legend>
+            <!-- QUESTION 1 -->
+            <p><label for="pack-2a">Do you want to buy it?</label>
+            <select name="pack-2a" id="pack-2a">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Military Shipping Label</strong> per Pallet. RFID is embedded if selected above.</p>
+            <!-- //QUESTION 1 -->
+
+            <!-- QUESTION 2 -->
+            <p><label for="pack-2b">Do you want to buy it?</label>
+            <select name="pack-2b" id="pack-2b">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Exterior Container Label</strong> per Container. RFID is embedded if selected above.<p>
+            <!-- //QUESTION 2 -->
+
+            <!-- QUESTION 3 -->
+            <p><label for="pack-2c">Do you want to buy it?</label>
+            <select name="pack-2c" id="pack-2c">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Unit Container Label</strong> per QUP - Quantity per Unit Pack</p>
+            <!-- //QUESTION 3 -->
+
+            <!-- QUESTION 4 -->
+            <p><label for="pack-2d">Do you want to buy it?</label>
+            <select name="pack-2d" id="pack-2d">
+            <option value="YES">YES</option>
+            <option value="NO">NO</option>
+            </select> <strong>[ ] Intermediate Container Label</strong> per Intermediate Container when used</p>
+            </fieldset>
+            <!-- /QUESTION 4 -->
+
+            <!-- SHIPPING CONTAINER QUANTITY  -->
+            <fieldset>
+            <p><label for="lastcontqty-2">Pallet Quantity:</label>
+            <input type="text" value="0" name="lastcontqty-2" id="lastcontqty-2"> Whole numbers only</p>
+            
+            <p><label for="shipcontqty-2">Shipping Container Quantity:</label>
+            <input type="text" value="0" id="shipcontqty-2" name="shipcontqty-2"></p>
+            </fieldset>
+            <!-- //SHIPPING CONTAINER QUANTITY -->
+
+            <!--  QUANTITY OF ITEMS IN LAST CONTAINER  -->
+            <fieldset>
+            <p><label for="qtyitemslastcont-2">Quantity of items in last Unit Container</label>
+            <input type="text" id="qtyitemslastcont-2" value="0"> Whole numbers only</p>
+            
+            <p><label for="lastcontqtylbs-2">Last Container Weight in Pounds:</label>
+            <input type="text" value="0" name="lastcontqtylbs-2"> Round up to the next whole number</p>
+            
+            <p><label for="lastcontcubft-2">Last Container Cubic Foot:</label>
+            <input type="text" value="0" name="lastcontcubft-2" id="lastcontcubft-2"> L(in):<input type="text" name="lastcontcubft-l-2" value="" class="small">  W(in):<input type="text" name="lastcontcubft-w-2" value="" class="small">  H(in):<input type="text" name="lastcontcubft-h-2" value="" class="small"></p>
+            </fieldset>
+            <!-- //QUANTITY OF ITEMS IN LAST CONTAINER -->
+
+            <!-- UNIT CONTAINER QTY -->
+            <fieldset>
+            <p><label for="unitcontqty-2">Unit Container Quantity</label>
+            <input type="text" id="unitcontqty-2" value="1"> Call us if you can’t find the QUP of your contract.</p>
+            
+            <p><label for="qtyitemslastcont-1">Quantity of items in last Unit Container</label>
+            <input type="text" id="qtyitemslastcont-1" value="0"> Whole numbers only</p>
+            </fieldset>
+            <!-- //UNIT CONTAINER QTY -->
+            
+            <!-- INTERMEDIATE CONTAINER QTY -->
+            <fieldset>
+            <p><label for="intcontqty-2">Intermediate Container Quantity</label>
+            <input type="text" id="intcontqty-2" value="1"></p>
+            </fieldset>
+            <!-- //INTERMEDIATE CONTAINER QTY -->
+
+            <!--*** //PACKAGE #2 ***-->
+            
+            <button class="submit">Get <em>EXPEDITER</em> Quick Quote</button>
+            </form>
+            
+            <!-- //QUICK QUOTE FORM -->
+   		</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

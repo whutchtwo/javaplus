@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Print MIL-STD-129 labels today with emailed uPrint-it PDF's</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, military shipping labels, MIL-STD-129 label, military shipping label, unit container labels, exterior container labels" name="keywords">
+    <meta content="Print MIL-STD-129 labels today with emailed uPrint-it PDF's" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="rfid">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+            <h1>You Can Print MIL-STD-129 Labels <em>Today</em></h1>
+            <h2><img src="/images/new-stock/uprint.jpg" width="198" height="344" alt="Compliance Label Services" class="left"><em>EXPEDITER</em>&trade; uPrint-its&trade; are EASY</h2>
+            <p>uPrint-its are PDF's of MIL-STD-129 Military Shipping Labels, Exterior Container Labels, Unit and Intermediate Container Labels.  With your laser printer and <em>EXPEDITER</em> uPrint-its, you can print MIL-STD-129 labels TODAY.</p>
+            <h3>uPrint-its are cost-effective</h3>
+            <ul>
+                <li>NO hardware or software to buy</li>
+                <li>NO specialized knowledge required</li>
+                <li>NO shipping cost</li>
+            </ul>
+            <h3>Buy by 2 pm ET,  we email your <em>EXPEDITER</em>™ uPrint-its™ the same day</h3> 
+            <p><a href="/pbrfid/newRegistration.do">Sign up</a> now or call (617) 314-7700. We walk you through it for free.</p> 
+            <p><a href="/pbrfid/newRegistration.do" class="int-btn ctr-text">Free! Sign up for <em><em>EXPEDITER</em></em></a></p>
+            <h3 class="clear"><img src="../images/new-stock/follow-me.jpg" width="300" height="370" alt="Compliance Label Services" class="right img-shdw"><em>EXPEDITER</em> uPrint-its are perfect when you don’t need RFID.</h3>
+            <ul>
+                <li>There's no cost for shipping – they’re emailed</li>
+                <li>Print and apply Unit Container Labels as you manufacture</li>
+                <li>Complete the packaging of your Shipping Containers while waiting for <em>EXPEDITER</em> RFID labels to arrive</li>
+            </ul>
+            <h3>Use the right labels, too for printing uPrint-its. (Ink jet does not meet DoD requirements)</h3>
+            <h4>For Military Shipping Labels and Exterior Container Labels</h4>
+            <p>We sell water resistant, 50 lb. bright white latex impregnated paper with permanent adhesive. It prints extremely well, is RoHS compliant and is great outdoors and in.   Choose 8.5 x 11 sheets with two 4 x 6 labels OR 8.5 x 14 sheets with four 4 x 6 labels.</p>
+            <h4>For Unit Container Labels</h4>
+            <ul>
+                <li>On smaller boxes or bags with minimal exposure to abrasion or weather, we sell 8.5 x 11 sheets with eighteen 2 1/2" x 1 9/16" labels</li>
+                <li>For tougher conditions or larger boxes, we sell standard 4x2 thermal transfer printed Unit Container Labels.</li> 
+            </ul>
+   		</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

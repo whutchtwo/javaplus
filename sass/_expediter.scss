@@ -1,0 +1,152 @@
+/*
+Expediter
+**********************/
+* {
+	@include box-sizing(border-box);
+}
+#popupContact,
+.accordionContent,
+#backgroundPopup {
+	display:none;
+}
+#exp {
+	header {
+		padding-top:20px;
+	}
+	#logout {
+		display:block;
+	}
+	#cse-search-box {
+		display: none;
+	}
+	center {
+		margin-bottom: 20px;
+	}
+}
+#logout {
+	position:absolute;	
+	top:20px;
+	right:10px;
+	display:none;
+}
+#msgs {
+	border:1px solid #EDEDED;
+
+	div {
+		height:150px;
+		overflow:auto;
+		padding-right:10px;
+	}
+	table {
+		font-size:12px;
+		margin:0;
+	}
+}
+#intro {
+	width:660px;
+	float:left;
+}
+#acct {
+	float:right;
+ 	width:255px;
+ 	font-size:0.85714285714286em;
+ 	border:1px solid #ccc;
+ 	padding:5px;
+ 	background:#EDEDED;
+
+ 	p {
+ 		&:last-child {
+ 			margin:0;
+ 		}
+ 	}
+}
+.acct-ftrs {
+	margin-top:15px;
+
+	ul, p {
+		padding-top: 30px;
+	}
+	figure {
+		width:165px;
+		float:left;
+	}
+	form {
+		  @include text-shadow (rgba(black,.6), 0 -1 0);
+		  @include border-radius(3px);
+		  background: #a00;
+		  color: #fff;
+		  padding: 5px;
+		  margin-bottom: 10px;
+		  display: inline-block;
+	}
+
+	#content-outer & {
+		li {
+			margin-left:0;
+			margin-top:0;
+		}
+		.actions {
+			list-style:none;
+			margin:0;
+
+			a {
+				display:block;
+			}
+		}
+		.description {
+			margin-left:20px;
+			margin:0;
+			list-style:none;
+			width:520px;
+
+			form p {
+				padding:0;
+				margin-bottom:0;
+			}
+			h2 {
+				line-height:1;
+				position: absolute;
+				border-bottom: 1px solid #ccc;
+				width: 100%;
+			}
+			ul, p {
+				padding-top: 30px;
+			}
+			li {
+				list-style-position:inside;
+			}
+
+			p {
+				padding-right:20px;
+
+			}
+		}
+	}
+	&.nofigure {
+		margin-left:165px;
+	}
+}
+
+// .btn-1, .btn-2 {
+// 	display:none;
+// }
+// #cse-search-box {
+// 	right:10px;
+// 	top:44px;
+// }
+
+#popupContact {
+	width: 500px;
+	background: #fff;
+	z-index: 500;
+}
+#backgroundPopup {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: #000;
+}

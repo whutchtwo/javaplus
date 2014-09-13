@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+        <title>MIL-STD-129 labels and RFID - Order on-line - Expediter&trade; FAQs</title>
+        <!--#include virtual="/common/header-1.shtml" -->
+        <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+        <meta content="MIL-STD-129 labels and RFID - Order on-line - Expediter™ FAQs" name="description">
+        <!--#include virtual="/common/header-2.shtml" -->
+</head>
+<body id="expediter">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>	        
+            <hgroup>
+            <h1><img src="/images/new-stock/young-marksman.jpg" width="300" height="230" alt="Army Marksman" class="right img-shdw"><em>EXPEDITER&trade;</em> FAQs</h1>
+			<h2><em>EXPEDITER&trade;</em> Frequently Asked Questions</h2>
+            </hgroup>
+			<dl class="expand" style="position:relative; top:-140px; width:64%;">
+            	<dt><a href="#cost">What does it cost to get started with <em>EXPEDITER&trade;</em> service?</a></dt>
+                <dd><p>It's FREE. There is no cost to get started, no subscription fee and no minimum quantity. You pay only when you order. Just <a href="/pbrfid/newRegistration.do" title="Click 
+				here to sign up now">sign up for a <em>EXPEDITER</em> account</a> and get compliant in as few as 24 hours.</p></dd>
+                
+                <dt><a href="#">How do I get started?</a></dt>
+                <dd><p>First, <a href="/pbrfid/newRegistration.do" title="Click here to sign up now">sign up for a <em>My&nbsp;ComplianceCenter</em> account</a>. Enter data at either the RFID and Container label form or UID label form. Immediately get your quotation, then purchase. Or, store your labels in the convenient Shopping Cart. If you have any questions, contact us. Our customer service people are knowledgeable and friendly.</p></dd>
+                
+                <dt><a href="#">How do I register for Wide Area Work Flow?</a></dt>
+                <dd><p>Register at <a href="http://wawf.eb.mil">wawf.eb.mil</a>. Near the bottom of the page, click the link at "Self-Register to use WAWF (New users)*" You need a valid CAGE code registered in the Central Contractor Registry (CCR), your password (or TPIN) and an Internet connection. It may take 2-3 days to receive your WAWF user ID and password. Compliance Label Service offers personalized, step-by-step instruction in WAWF. Pay by the hour or 15 increment - you only pay for what you need. Call us to schedule.</p></dd>
+                
+                <dt><a href="#">How long will it take to get my <em>EXPEDITER&trade;</em> labels?</a></dt>
+                <dd><p>Orders for RFID and Container labels received before Noon (Eastern Time) M-F are processed and shipped the same business day. Orders received after Noon M-F will be processed and shipped the next business day. Orders for most UID labels are processed and shipped in 3-5 business days. Please contact us if you need RUSH UID service.</p></dd>
+                
+                <dt><a href="#">What are my shipping options?</a></dt>
+                <dd><p>We offer FedEx standard overnight, FedEx 2-Day and FedEx Ground (3-5 days).</p></dd>
+                
+                <dt><a href="#">How are <em>EXPEDITER&trade;</em> labels inspected and tested?</a></dt>
+                <dd><p>Every <em>EXPEDITER&trade;</em> label is inspected by human eye for visual defects and readability of the text. Linear barcodes are sampled for verification.</p>
+                <p>For RFID labels, the RFID is tested & verified as functioning properly three times:</p>
+                <ol>
+					<li>By our supplier, the label converter</li>
+					<li>By our RFID printers (before encoding, in near field)</li>
+					<li>By our RFID readers (after encoding, in far field, at 12' read distance)</li>
+				</ol>
+                <p>For UID labels, the 2D Data Matrix barcode is both validated and verified per MIL-STD-130 and ECC200 standards. The data content of the Data Matrix barcode is validated by decoding with an automated reader programmed to check syntax. In addition, the print quality of the Data Matrix barcode is inspected with vision verification equipment to meet ISO15415, AS9132 or AIM-DPM-12006. Sample sizes are a minimum of 25% for quantities less than 100; 10% for quantities greater than 100.</p></dd>
+                
+                <dt><a href="#">Do you supply a Certificate of Compliance?</a></dt>
+                <dd><p>Yes. RFID labels are supplied with a detailed Certificate of Compliance indicating conformance with MIL-STD-129. UID labels are supplied with a detailed Certificate of Compliance indicating conformance with MIL-STD-130. Our Certificates of Compliance have been universally accepted by our customers' Government QAR's.</p></dd>
+                
+                <dt><a href="#">How are the <em>EXPEDITER&trade;</em> labels packaged?</a></dt>
+                <dd><p>RFID and Container labels are collated by pallet, placed in a static shielding bag, wrapped in static resistant bubble wrap and packaged in a FedEx cardboard envelope or corrugated box. UID labels are placed in a sealed plastic bag, cushioned as required and packaged in a FedEx cardboard envelope or corrugated box.</p></dd>
+                
+                <dt><a href="#">How do I apply the <em>EXPEDITER&trade;</em> labels safely?</a></dt>
+                <dd><p>Instructions for where to place and how to apply EXPEDITER™ labels are provided at <em>EXPEDITER</em> account.</p></dd>
+                
+                <dt><a href="#">Which Federal Supply Classes require RFID labels?</a></dt>
+                <dd><p>For a listing of Federal Supply Classes and the year the Radio Frequency Identification (RFID) mandate began for each Class, visit: <a href="http://www.acq.osd.mil/log/rfid/r_class_supply_tool.html">www.acq.osd.mil/log/rfid/r_class_supply_tool.html</a></p></dd>
+                
+                <dt><a href="#">Which 'ship to' locations require RFID?</a></dt>
+                <dd><p>The DoD maintains an updated list of ‘ship to’ locations requiring RFID per DFARS Clause 252.211-7006 at <a href="http://www.acq.osd.mil/log/rfid/r_dfars_list.html" target="_blank">http://www.acq.osd.mil/log/rfid/r_dfars_list.html</a>. However, you MUST read your individual contract carefully, because additional locations requiring RFID may be identified for specific shipments.</p></dd>
+                
+                <dt><a href="#">What do I need to know about ASN and WAWF?</a></dt>
+                <dd><p>The DoD requires the RFID numbers of each case and pallet bearing RFID labels to be appended to the WAWF Receiving Report of the associated DoD contract. This can be done manually by 'fat fingering' the data at the WAWF website or it can be done electronically. Because each RFID number consists of a string of 24 characters, manual data entry of more than a couple RFID numbers is a time-consuming, error prone process. Furthermore, all input must be completed in a single session and WAWF is prone to terminate input sessions without warning, forcing the frustrated user to re-start the manual input from the beginning.</p>
+                <p>With the <strong><em>EXPEDITER&trade;</em> 3-CLICK ASN</strong>, we electronically upload your ASN's for you. We email you a <strong>3-CLICK ASN</strong> link after each <strong><em>EXPEDITER&trade;</em></strong> purchase of RFID labels. You click the link, select any shipment whose ASN's you want uploaded and pay via credit card or DrawDown 	account. We do the rest. Within 1 business day, we upload the ASN data for every shipment from any contract you selected. The RFID numbers are correct and the data is appended to the Receiving Report of the right contract!</p>
+                <p>For your convenience, we also keep track of which shipments have not had their RFID numbers uploaded to WAWF. We email you a <strong>3-CLICK ASN reminder email</strong> as often as you want or not at all to enable you to click the <strong>3-CLICK ASN link</strong> whenever shipments are ready. If you prefer, the <strong>3-CLICK ASN link</strong> is also available to you 24x7 at <em>My&nbsp;ComplianceCenter.</em></p></dd>
+                
+                <dt><a href="#">How can I change my contact or mailing information?</a></dt>
+                <dd><p>Labels are shipped to the contact person and address input at <em>EXPEDITER</em> account during sign up. To update this information, just login and change them. To redirect a single order, input the temporary 'ship to' address on the comment line of that order.</p></dd>
+                
+                <dt><a href="#">Have a question not answered here? Please ask us!</a></dt>
+                <dd><p>Please <a href="/pbrfid/contactus.do">click here to use our convenient Contact Us online form</a>. Or, if you prefer, give us a call or send mail to:</p>
+                <address>
+                <strong>Compliance Label Service</strong><br>
+                13 Wedgewood Drive, Suite 50<br>
+                Hopkinton, MA 01748<br>
+                (617) 314-7700</address></dd>
+            </dl>
+       	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

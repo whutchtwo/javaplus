@@ -1,0 +1,14 @@
+    <meta content="index,follow" name="Robots">       
+    <link href="/favicon.png" type="image/png" rel="icon"> 
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
+    <link href="/styles/screen.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="/js/hoverIntent.js"></script>
+    <script src="/js/rotaterator.js"></script>
+    <script src="/js/jquery.qtip-1.0.0-rc3.min.js"></script>
+    <script src="/js/jquery.lightbox-0.5.min.js"></script>
+	<script src="/js/application.js"></script>
+</head>

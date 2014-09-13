@@ -1,0 +1,16 @@
+<h2 class="clear">Customers say...</h2>
+<ul id="quotes">
+    <li>
+        <p>"I've been dealing with suppliers for over thirty years and have come across only a handful of companies that have been truly a pleasure dealing with. My hat is off to you and your organization. Professional, helpful, quick response and it will be a delight calling on your services again when the needs arise. Thank you."</p>
+        <p class="txt-r">Donald R. Moreau<br>Quality Assurance Manager<br>Universal Plastics Corporation</p>
+    </li>
+    <li>
+        <p>"When I contacted Compliance Label Service, the people were friendly, knowledgeable, and eager to help in any way. I was walked through the on line program for entering the contract and shipment information. The tags were in my shop the NEXT DAY! I was sent a link to WAWF to fulfill the advance notification requirement, and everything fell in order very smoothly."</p>
+        <p>"I highly recommend Compliance Label Service."</p>
+        <p class="txt-r">Steve DeLong<br>Production Manager<br>Coastal Enterprises of Jacksonville</p> 
+    </li>    
+    <li>
+        <p>"I will recommend your service to the companies I know that do business with the DoD as you have a really great company with great service!"</p>
+        <p class="txt-r">Keith Perry<br>Winfield Brooks Co., Inc</p>
+    </li>                
+</ul>

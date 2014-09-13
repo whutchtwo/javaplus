@@ -1,0 +1,61 @@
+/*
+Quick Quote
+**********************/
+#quick-quote {
+	fieldset {
+		margin-bottom: 20px;
+		border: none;
+	}
+	input[type="text"] { width: 30px; }
+	label {
+		@include border-radius(3px); 
+		float: left;
+		margin-top: 3px;
+		margin-right: 2px;
+		padding: 2px 3px;
+		width: 260px;
+		background: #690507;
+		color: #fff;
+		text-align: right;
+		@include text-shadow(0 -1px 0 rgba(black, 1));
+	}
+	legend {
+		color: #000; 
+		font-weight: bold;
+	}
+	p { 
+		margin: 5px 0 0;
+		font-size: 13px;
+	}
+	select { 
+		width: auto; 
+		position: relative;
+		top: 3px;
+	}
+	button {
+		@include button(10px, 10px, inline-block, bold);
+	}
+	.small { width: 30px; }
+	input[type="checkbox"] { margin: 0; position: relative; left: 1px;}
+	
+}
+.qq-receipt {
+	td, th {
+		vertical-align: middle;
+	}
+	label {
+		width: auto;
+		font-weight: normal;
+	}
+	.int-btn {
+		width: 100%;
+		text-align: center;
+	}
+	.int-btn2 {
+		background: #444;
+
+		&:hover {
+			background: #555;
+		}
+	}
+}

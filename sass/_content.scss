@@ -1,0 +1,72 @@
+/*
+Content
+**********************/
+#content-outer {
+	border-top:1px solid #fff;
+	position:relative;
+	@include clearfix;
+	font-size:1.16666666666667em;
+
+	&> section {
+		padding:10px;
+	}	
+	
+	&> aside {
+		color:#000;
+		float:right;			
+		padding:10px;
+		width: 290px;
+	}
+
+	ul {
+		list-style-position:outside;
+		list-style-type:square;
+		@include clearfix;
+		
+		li {margin:8px 5px 5px 18px}
+		
+		ul {
+			list-style-type:disc;
+			margin-bottom:0;
+		}
+
+		&.no-blt {list-style-type:none}		
+		
+		&.no-margin li{
+			margin:0;
+			padding:0;
+		}
+			
+		&.letters {
+			list-style-type:upper-alpha;
+			padding-left: 21px;
+		}
+	}
+	
+	&.partners ul {list-style-type:none}
+	
+}
+#search #content-outer {
+	background-image:none;
+	padding:0;
+	width:940px;
+}
+#info-outer {
+	footer {
+		padding:10px;	
+	}
+}
+.int-btn {
+	@include button(10px, 14px, inline-block, bold);
+	margin:10px 0;
+}
+.content-inner,
+.construct div {@include clearfix}
+.expand dd {display:none}
+.partners {
+	figure {@extend .left}	
+	li {@extend .cf}
+}
+
+
+

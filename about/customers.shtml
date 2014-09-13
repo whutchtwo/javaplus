@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129, RFID, UID - Customers - Compliance Label Service</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+    <meta content="MIL-STD-129, RFID, UID - Customers - Compliance Label Service" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="about">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+            <h1>Our Customers</h1>
+            <p>We earn your business each day with unparalleled customer service and breadth of compliance knowledge. Each time you contact us, we greet you with enthusiasm to save you time, keystrokes and money in achieving DoD and GSA compliance, speeding your shipments to the warfighter and your payments from DoD.</p>
+            <h2>We serve:</h2>
+            <ul>
+                <li>Small, medium and large companies</li>
+                <li>from a 7 man machine shop in Broken Arrow, OK to multi-national giants</li>
+                <li>For-profit and not-for-profit organizations</li>
+                <li>First time DoD and GSA suppliers and companies that have supplied DoD and GSA for decades</li>
+                <li>Producers and distributors of aerospace parts, body bags, blank firing 
+                attachments, chemicals, electronics, generators, filters, hats, HUMV mirrors, jump seats, 
+                knee pads, metal castings and stampings, night vision equipment, parachutes, tent heaters, 
+                ski mobiles, targeting devices and more</li>
+                <li>Professionals in Quality Assurance/Control, Government Sales, Operations, 
+                Administration, Shipping, Project Management, Supply Chain functions and more</li>
+			</ul>				
+            <h2>A 1,000 companies trust us for DoD and GSA compliance, including:</h2>
+            <ul>
+                <li>Aeroflex-KDI Integrated Products</li>
+                <li>Borg Warner</li>
+                <li>Coastal Enterprises of Jacksonville, Inc. (an agency of the National Institute 
+                for the Severely Handicapped)</li>
+                <li>General Electric</li>
+                <li>L-3 Communications</li>
+                <li>McQuade &amp; Bannigan</li>
+                <li>ORO Manufacturing</li>
+                <li>Polaris Defense</li>
+                <li>Quality Machining</li>
+                <li>The Triumph Group</li>
+                <li>Zodiac Corporation</li>
+            </ul>
+            <h2>Try us – Call (617) 314-7700 or <a href="/pbrfid/contactus.do">Email</a></h2>
+      	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

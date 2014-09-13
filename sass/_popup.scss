@@ -1,0 +1,110 @@
+/*
+Login Popup
+**********************/
+blockquote:before, blockquote:after, q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+br.both {
+	clear: both;
+}
+#backgroundPopup {
+    position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    z-index: 50;
+    display:none;
+    width: 100%;
+	height: 100%;
+	background: #000;
+}
+#popupContact {
+	position: fixed;
+	z-index: 500;
+	display: none;
+	padding: 12px;
+	width: 700px;
+	height: 384px;
+	border: 2px solid #cecece;
+	background: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica;
+	_position: absolute; /* hack for internet explorer 6*/
+}
+#popupNSN {
+	position: fixed;
+	z-index: 2;
+	display: none;
+	padding: 12px;
+	width: 300px;
+	height: 200px;
+	border: 2px solid #cecece;
+	background: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica;
+	_position: absolute; /* hack for internet explorer 6*/
+}
+#popupContact, #popupNSN h1 {
+	margin-bottom: 20px;
+	padding-bottom: 2px;
+	border-bottom: 1px dotted #D3D3D3;
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica;
+}
+#popupContactClose, #popupNSNClose {
+	position:absolute;
+	top:4px;
+	right:6px;
+	display:block;
+	color:#690507;
+	font-weight:700;
+	font-size:14px;
+	line-height:14px;
+}
+#button {
+	margin: 100px;
+	text-align: center;
+}
+#lookupButton {
+	cursor: pointer;
+}
+#lookupButtonMark {
+	cursor: pointer;
+}
+
+#popupContact {
+    z-index: 100;
+	z-index: 500;
+    display:none;
+	padding:10px;
+    width: 500px;
+    background:#fff;
+
+	h1 {
+		margin-bottom:20px;
+		padding-bottom:2px;
+		border-bottom:1px dotted #D3D3D3;
+		color:#690507;
+		font-size:22px;
+		text-align:left;
+		font-weight:700;
+	}
+}
+
+div#scpop-up {
+	position: absolute; 
+	top:50%;
+	left:50%;
+	z-index: 10;
+	display: none;
+	margin:-150px 0 0 -150px;
+	padding: 10px;
+	width: 380px;
+	border: 1px solid #1a1a1a;
+	background: #eeeeee;
+	color: #000000;
+	text-align: center;
+	font-size: 90%;
+}

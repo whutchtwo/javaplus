@@ -1,0 +1,30 @@
+// New Registration, Edit User
+#new-registration, #update-user {
+	input[type="text"],
+	input[type="password"] {
+		width: 275px;
+		height: 25px;
+		margin-bottom: 4px;
+	}
+	table { margin: 0; }
+	td { padding: 0; }
+	form {
+		h3 {
+			margin: 5px 0 -2px;
+		}
+		td { 
+			padding: 3px 5px;
+			vertical-align: middle;
+		}
+	}
+	
+	#submitNewUser {
+		margin: 15px auto;
+		display: block;
+		padding: 10px;
+	}
+	input[value="Update My account"] {
+		float:right;
+		@extend #submitNewUser;
+	}
+}

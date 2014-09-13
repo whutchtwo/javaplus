@@ -1,0 +1,269 @@
+/*
+Three Column
+**********************/
+
+	/* General styles to create layout with header, footer, and three internal column sections */
+	/* Compliance Label Service CLS 3 column layout */
+	body {
+		margin:0;
+		padding:0;
+		min-width:600px;			
+		width:100%;
+		border:0;
+		background:#fff;
+		color: #000;	
+		font-size:11px;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+	body{behavior:url(cssHoverFix.htc);}
+	a:link { 
+		color:#a00; 
+		text-decoration:underline;
+	}
+	a:visited { 
+		color:#a00; 
+		text-decoration:underline;
+	}
+	a:hover {
+		background:#ff9;
+		color:#f00;
+		text-decoration:none;
+	}
+	a:active {
+		background:#ff6;
+		color:#f00;
+		text-decoration:none;
+	}
+	a.login:link { color:#fff; text-decoration:none; font-weight: bold; font-size:12px; }
+	a.login:visited { color:#fff; text-decoration:none; font-weight: bold; font-size:12px; }
+	a.login:hover { background:transparent; color:#fff; text-decoration:underline; font-weight: bold; font-size:12px; }
+	a.login:active { color:#fff; text-decoration:underline; font-weight: bold; font-size:12px; }
+	h1, h2, h3 {
+		margin:.8em 0 .2em 0;
+		padding:0;
+		color:#a00;
+	}
+	h1 {
+		font-size: 24px;
+	}
+	h2	{
+		font-size: 18px;
+	}
+	h3	{
+		font-size: 14px;
+	}
+	h3.redbox {
+		padding-bottom: 10px;
+	}
+	h4	{
+		font-size: 12px;
+		}
+	p {
+		margin:.4em 0 .8em 0;
+		padding:0;
+	}
+	p.withlist {
+		margin:.4em 0 -.6em 0;
+		padding: 0;
+	}
+	p.postlist {
+		margin: -1em 0 .8em 0;
+		padding: 0;
+	}
+	p.top {
+		font-style: italic;
+		font-size: 9px;
+	}
+	p.right {
+		text-align: right;
+		}
+	ul.biglist {
+		margin-left: 5px;
+		list-style-type: square;
+		font-weight: bold;
+		font-size: 12px;
+	}
+	li.biglist {
+		padding-bottom: 5px;
+	}	
+	ul.list {
+		margin-left: 0;
+		padding-left: 15px;
+		list-style-type: square;
+	}
+	li.list {
+		padding-bottom: 5px;
+		color: #000;
+	}
+	ul.sublist { 
+		margin-left: 5px; 
+		padding-left: 15px;
+		list-style-type: disc;
+	}
+	li.sublist {
+		padding-top: 2px;
+		padding-bottom: 0;
+	}
+	ul.tblist {
+		margin-left: 15px;
+		padding-left: 0;
+		list-style-type: square;
+	}
+	li.tblist {
+		padding-bottom: 2px;
+		font-size: 10px;
+	}
+	ol.numberlist {
+		margin-left: 15px;
+		padding-left: 15px;
+	}
+	li.numberlist {
+		padding-bottom: 10px;
+	}
+	img {
+		margin: 10px 0 5px;
+		border: 0;
+	}
+	img.outline {
+		margin: 10px 0 5px;
+		border-width: 1px;
+		border-style: solid;
+		border-color: #000;
+	}
+	.redtable {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border: 0;
+		background: #a00;
+		color: #fff;
+		text-align: center;
+	}
+	.packedtable {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border: 0;
+		background: #fff;
+		color: #000;
+		text-align: center;
+		font-size:9px;
+	}
+
+	/* Header styles */
+	#header {
+		float:left;
+		clear:both;
+		width:100%;
+		v-align: top;
+	}
+	#header {
+		border-bottom:1px solid #000;
+	}
+	#header p,
+	#header h1,
+	#header h2,
+	#header h3,
+	#header h4	{
+		margin:0;
+		padding:.4em 15px 0 15px;
+		text-align:left;	/* SLD was center adjust to match new nav */
+	}
+	/* three columns container */
+	.colmask {
+		position:relative;	/* This fixes the IE7 overflow hidden bug */
+		float:left;
+		clear:both;
+		overflow:hidden;		/* chop off overhanging divs */
+		width:100%;			/* width of whole page */
+	}
+	/* common column settings */
+	.colright,
+	.colmid,
+	.colleft {
+		position:relative;
+		float:left;
+		width:100%;			/* width of page */
+	}
+	.col1,
+	.col2,
+	.col3 {
+		position:relative;
+		float:left; 
+		overflow:hidden;
+		padding:0 0 1em 0;
+	}
+	/* 3 Column settings */
+	.threecol {
+		background:#eee;		/* right column background color light grey */
+	}
+	.threecol .colmid {
+		right:30%;			/* width of the right column */
+		background:#fff;		/* center column background color white */
+	}
+	.threecol .colleft {
+		right:50%;			/* width of the middle column */
+		background:#ffd;	/* left column background color off white beige */
+	}
+	.threecol .col1 {
+		left:102%;			/* 100 plus left padding of center column */
+		width:46%;			/* width of center column content (column width minus 2 padding on either side) */
+	}
+	.threecol .col2 {
+		left:35%;			/* width of (right column 30) plus (center column left and right 2 padding each) plus (left column left 1 padding) */
+		width:18%;			/* width of left column content (column width 20 minus 1 padding on either side) */
+	}
+	.threecol .col3 {
+		left:87%;			/* Please make note of the brackets here:
+						(100 minus left column 20 width) plus (center column left and right 2 padding each) 
+						plus (left column left and right 1 padding each) plus (right column left 1 padding) */
+		width:28%;			/* width of right column content (column width 30 minus 1 padding on either side) */
+	}
+	/* Footer styles */
+	#footer {
+		float:left;
+		clear:both;
+		width:100%;
+		border-top:1px solid #000;
+	}
+	#footer p {
+		margin:0;
+		padding:10px;
+		text-align:center;
+		font-size:9px;
+	}
+	
+	/* Pull down menu styles * /
+	
+	body{ behavior:url("csshover2.htc"); */
+	.pd_menu {float:left; clear:both; margin:0; padding:0;width:100%; border:solid 1px #000000;background: #333333;color: #ffffff;} /*Color navigation bar normal mode*/
+	.pd_menu a, .pd_menu a:visited {
+	background-color: #333333;
+	color: #ffffff;
+	text-decoration: none;
+	font-weight:bold;
+	font-style:normal;
+	font-size:12px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	}
+	.pd_menu ul { margin:0;padding:0;list-style-type:none;}
+	.pd_menu ul li { position:relative; z-index:auto !important ; z-index:1000 ;float:left; border-right:solid 1px #000000; border-left:solid 1px #000000;}
+	.pd_menu ul li a { display:block;float:none !important ; float:left ; padding:0 10px 0 10px; height:30px;background: #333333;color: #ffffff; text-decoration:none; line-height:30px; }
+	.pd_menu ul li ul {display:none; width:1px; border:none;background: #eeeeee;color: #ffffff;}
+	.pd_menu ul li:hover a {background-color:#aa0000; color:#ffffff; text-decoration:none;} /*Color main cells hovering mode*/
+	.pd_menu ul li:hover ul {  position:absolute; top:29px; left:0; z-index:999;display:block; margin-top:1px;}
+	.pd_menu ul li:hover ul li a {display:block; margin-left:-1px; padding:5px 10px 5px 10px; width:12em; height:auto; border-bottom: solid 1px #000000; border-left:solid 1px #000000; background-color:#eeeeee;  color:#000000; line-height:1.3em;} /*Color subcells normal mode*/
+	.pd_menu ul li:hover ul li a:hover {background-color:#ffffdd; color:#aa0000; text-decoration:none;} /*Color subcells hovering mode*/
+	.pd_menu ul li a:hover {background-color:#aa0000;color:#ffffff; text-decoration:none;} /*Color main cells hovering mode*/
+	.pd_menu ul li a:hover ul { position:absolute; top:29px; left:0; z-index:999;display:block; width:12em; }
+	.pd_menu ul li ul li a:visited { background-color:#eeeeee;  color:#000000;} /*Color subcells normal mode*/
+	.pd_menu ul li a:hover ul li a {display:block; padding:4px 16px 4px 16px; width:12em; height:1px; border-bottom: solid 1px #000000; border-left:solid 1px #000000; background-color:#eeeeee;  color:#000000; line-height:1.3em;} 
+	.pd_menu ul li a:hover ul li a:hover {background-color:#ffffdd;color:#000000; text-decoration:none;} /*Color subcells hovering mode*/
+
+	/* Rounded red box styles */
+	.bl { width: 100%;background: url(../images/bl.gif) 0 100% no-repeat #a00;}
+	.br {background: url(../images/br.gif) 100% 100% no-repeat;}
+	.tl {background: url(../images/tl.gif) 0 0 no-repeat;}
+	.tr { padding: 10px;background: url(../images/tr.gif) 100% 0 no-repeat; color: #fff;}
+	.clear { height: 1px;font-size: 1px;} 
+
+	/* Dark grey box styles */
+	.dkbx { clear:both; padding: 10px 20px 10px 10px; width: 100%; border:solid 1px #000000;background-color: #333333; color: #ffffff; font-weight: bold; font-size: 12px;}

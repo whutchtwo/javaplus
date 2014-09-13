@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>UID labels - Compy with MIL-STD-130 - DoD Construct &amp; Format</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="UID labels, MIL-STD-130 labels, mil std 130 labels, MIL-STD-130 label, mil std 130 label, DFARS 252.211-7003" name="keywords">
+    <meta content="UID labels - Compy with MIL-STD-130 - DoD Construct &amp; Format" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="uid">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section class="construct">
+			<h1>Construct and Format</h1>
+            <h2>Unique Identification - Construct & Encoding Format</h2>
+            <p>MIL-STD-130 and DFARS 252.211-7003 require DoD suppliers to select both a Data Construct and Encoding Format for their UID numbering system. Data Construct #1 and #2 are the two serialization schemes which the DoD has approved for UID use. The Encoding Format is the type of identifier or data header which machines read the data of the UID by identifying the different fields of the concatenated UID. The examples below illustrate some of the choices for each Construct and Encoding Format.</p>
+            <h3>DoD Data Construct</h3>
+            <div>
+                <h4>Construct #1 - Serialize within the Enterprise</h4>		
+                <figure class="right"><figcaption>Construct #1 Sample</figcaption><img src="/images/uid_construct_1.jpg" alt="UID Construct 1" width="193" height="80"></figure>
+                <p>The DoD supplier assigns each item it produces a serial number that is unique among all the tangible items produced by that enterprise and that serial number is never used again. The DoD Supplier is responsible for ensuring unique serialization within the enterprise.</p>
+            </div>
+            <div>
+                <h4>Construct #2 – Serialize within Original Part Number</h4>
+                <figure class="right"><figcaption>Construct #2 Sample</figcaption><img src="/images/uid_construct_2.jpg" alt="UID Construct 2" width="193" height="80"></figure>
+                <p>The DoD supplier assigns each item of a particular part, lot, or batch number a unique serial number within that part, lot, or batch number assignment. The DoD supplier is responsible for ensuring unique serialization within the part, lot, or batch number within the enterprise.</p>
+            </div>
+            <div>
+                <h3>Encoding Format</h3>
+                <h4>Data Identifier (DI)</h4>
+                <figure class="right"><figcaption>DI Construct #1 Sample</figcaption><img src="/images/uid_construct_1a.jpg" alt="UID" width="193" height="80"></figure>
+                <figure class="right clear"><figcaption>DI Construct #2 Sample</figcaption><img src="/images/uid_construct_2a.jpg" alt="UID" width="193" height="80"></figure>
+                <p>Also called Format 06 ISO/IEC 15434, we find this format the most widely used.</p>
+            </div>
+            <div>
+                <h4>Text Element Identifier (TEI)</h4>
+                <figure class="right"><figcaption>TEI Construct #1 Sample</figcaption><img src="/images/uid_construct_1b.jpg" alt="TEI" width="193" height="80"></figure>
+                <figure class="right clear"><figcaption>TEI Construct #2 Sample</figcaption><img src="/images/uid_construct_2b.jpg" alt="TEI" width="193" height="80"></figure>
+                <p>Specified in Aerospace Spec 2000, TEI is also called Format DD or Format 12.</p>
+            </div>
+            <div>
+                <h4>Application Identifier (AI)</h4>
+                <figure class="right"><figcaption>AI Construct #2 Sample</figcaption><img src="/images/uid_construct_2c.jpg" alt="TEI" width="193" height="80"></figure>
+                <p>AI is also known as Format 05 ISO/IEC 15434. We find this format the least used.</p>
+            </div>
+       	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

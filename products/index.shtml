@@ -1,0 +1,190 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129, RFID and UID compliance for Defense suppliers</title>
+    <!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+    <meta content="MIL-STD-129, RFID and UID compliance for Defense suppliers" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="products">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+            <h1>Products and Services</h1>
+			<p><img src="/images/new-stock/team-of-3.jpg" alt="Compliance Label Services" width="300" height="200" class="img-shdw right">We offer a multitude of products, systems and services to make compliance convenient. And we eat our own cooking... We use almost all of them each day in our <em>EXPEDITER&trade;</em> operation so you can be confident of their quality and durability. Please call for pricing or information about any item (including those not listed).</p>
+            <h2>ASN Action&trade;</h2>
+            <p>Bulk upload service for your RFID or UID data to WAWF. For	suppliers and packaging houses that print RFID and UID labels in house, we verify the integrity of your data, check for proper CAGE codes, validate the RFID data construct, find tag duplications and search for orphan pallets. We format to DoD specs and electronically transmit to WAWF. We accept your file in CSV, TXT (tab delimited), XLS, DOC, PDF or XML. Saves time and allows your employees to return to business!</p>
+            <h2>WAWF instruction and trouble-shooting</h2>
+            <p>We walk you through trouble spots &amp; answer questions: $30 for 15 minutes; $85/hour</p>
+            <h2>Compliance Tutorials</h2>
+            <p>Personalized for experienced or new DoD contractors; 30 minute sessions on RFID Container labels, UID, WAWF: $65 each.</p>
+            <h2>Labels</h2>
+            <p>We offer blank labels to meet MIL-STD-129 in two face stocks:</p>
+            <ol>
+                <li>
+                    <strong>Premium, top coated paper</strong>
+                    <ul>
+                        <li>
+                            For normal supply chain use
+                        </li>
+                        <li>
+                            Superior print durability from thermal transfer printing with
+                            wax resin ribbon
+                        </li>
+                        <li>
+                            Meets MIL-PRF-61002 Grade C durability
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>Top coated 2 mil white Polyester</strong>
+                    <ul>
+                        <li>
+                            For outdoor weatherability
+                        </li>
+                        <li>
+                            Outstanding print durability from thermal transfer printing
+                            with resin ribbon
+                        </li>
+                        <li>
+                            Outstanding chemical, strength &amp; tearing resistance;
+                            durability to 300 deg F
+                        </li>
+                        <li>
+                            Meets MIL-PRF-61002 Grade B durability requirements
+                        </li>
+                    </ul>
+                </li>
+            </ol>
+            <h2>We offer blank labels both with and without RFID.</h2>
+            <ul>
+				<li>
+                    <strong>Blank RFID labels to meet MIL-STD-129, DFARS
+                        252.211-7006 and MIL-PRF 61002</strong>
+                    <p>Rolls of 4 x 6, 1 up, 800/roll, 3" core, UHF EPC C1G2 96 bit
+                    chip (contact us for complete selection)</p>
+                </li>
+                <li>
+                    <strong>Blank labels (without RFID) to meet MIL-STD-129
+                        and MIL-PRF 61002</strong>
+                    <p>Rolls of 4 x 2, 4 x 6 (contact us for complete selection)</p>                    
+                    <p>Sheets of 2.5 x 1.563 labels, 18 labels per 8.5 x 11 (contact us
+                    for complete selection)</p>
+                </li>
+            </ul>
+            <h2>Thermal Transfer ribbons </h2>
+            <p>Minimize roll changes with 4.33 " wide, premium quality ribbons of the longest length commercially available, 1476'. These are the ribbons we use daily for <em>EXPEDITER&trade;</em>.</p>
+            <ul>
+                <li>
+                    Wax/Resin for exceeding MIL-PRF 61002 durability C (normal
+                    supply chain use)
+                </li>
+                <li>
+                    Resin for exceeding MIL-PRF 61002 durability B (outdoor
+                    weatherability)
+                </li>
+            </ul>
+            <h2>Software</h2>
+            <ul>
+                <li>
+                    <strong>Mil-Pac Std-Barc</strong> - time-tested software for
+                    generating DoD compliance. Std-Barc encodes MIL-STD-129
+                    compliant RFID labels. It prints MIL-STD-129 Unit, Intermediate
+                    and Exterior Container Labels, Military Shipping Labels (MSL's)
+                    and MIL-STD-130 Unique Identifier (UID) Labels.
+                </li>
+                <li>
+                    <strong>Mil-Pac Load Manager</strong> - works with Std-Barc to
+                    generate WAWF Advance Shipment Notices (ASN's ) for RFID labels
+                    created by Std-Barc. It also supports ASN creation for UID
+                    containers and palletized loads. With a Value Added Network
+                    (VAN), RFID Load Manager uploads ASN data to WAWF.
+                </li>
+                <li>
+                    <strong>Mil-Pac DD Master</strong> - automated contract-driven
+                    shipment manager for WAWF Receiving Report and Invoice
+                    generation. Designed specifically to support contracts requiring
+                    multiple shipments. Includes a contract status report generator,
+                    WAWF and Receiving Report forms. Also includes support for WAWF
+                    and UID Registry transaction generation and upload via Value
+                    Added Network (VAN).
+                </li>
+            </ul>
+            <h2>Thermal transfer RFID printers</h2>
+            <ul>
+                <li>
+                    <strong>Printronix 5204R MP2</strong> &ndash; Heavy duty, 4" width,
+                    203 dpi, high performance UHF RFID printer/encoder with
+                    EPCglobal Gen 2 Certification. It offers advanced XML-based RFID
+                    print and control platforms with real-time XML printer and job
+                    control as well as XML forms printing. It features Unicode with
+                    TrueType font support. (NOTE: Compliance Label Service has many
+                    of these in operation. The oldest dates to 2004 and performs
+                    like new.)
+                </li>
+                <li>
+                    <strong>Zebra 110xi</strong> &ndash; Heavy duty, 4" width, 203 dpi,
+                    high performance UHF RFID printer/encoder with EPCglobal Gen 2
+                    Certification. It offers advanced XML-based RFID print and
+                    control platforms with real-time XML printer and job control as
+                    well as XML forms printing. It features a ThingMagic UHF RFID
+                    Reader /Encoder. (NOTE: Compliance Label Service also has these
+                    in operation.)
+                </li>
+            </ul>
+            <h2>Hand Held RFID readers</h2>
+            <ul>
+                <li>
+                    <strong>Unitech</strong> &ndash; This medium duty, hand held RFID
+                    reader is perfect for demonstrating RFID and barcode compliance
+                    to your QAR. We integrate and test the Unitech Hand Held
+                    computer and barcode reader with a WJ PCMCIA card short range
+                    RFID reader with integrated antenna. The Unitech has a 2D
+                    Imager, 400MHZ, 64MB Flash, 64MB RAM, WinCE PDT with Li-Ion
+                    battery, A/C adapter, USB communication cable, CD-ROM with
+                    manuals, The Operating System is CE.NET 4.2. It comes with
+                    built-in Bluetooth and 36 Key Keypad. Includes Quick Start
+                    Documentation written by Compliance Label Service. (NOTE:
+                    Compliance Label Service has used this hardware as part of our
+                    Quality Control processes for over three years without issues or
+                    downtime.)
+                </li>
+                <li>
+                    <strong>Motorola/Symbol</strong> &ndash; This heavy duty, hand held
+                    RFID reader is an industry standard. The Motorola/Symbol
+                    MC9090-G RFID EPC GEN 2 comes with WLAN 802.11 A/B/G 1D/2D
+                    Imager, Color Touch screen, 64MB Flash, 128MB RAM, 53 Key
+                    Keypad, Windows Mobile 5.0, Bluetooth, Single slot charging and
+                    communications cradle. Includes USB Communications cable, Power
+                    supply with CD cable and AC line cord. (NOTE: Compliance Label
+                    Service has used this hardware as part of our Quality Control
+                    processes for over four years without issues or downtime.)
+                </li>
+                <li>
+                    <strong>LXE</strong> &ndash; This heavy duty, hand held RFID reader is
+                    the most rugged on the market. You can drop it, hose it down,
+                    and freeze it without ill effect. With active display technology
+                    options, it can be customized for easy viewing in dimly lit
+                    warehouses or outdoors. It is equipped with a powerful
+                    Intel&reg;XScale&reg; processor, and runs industry standard, Windows&reg; CE
+                    .NET or Windows&reg; CE 5.0 Professional Operating System. It
+                    features a 6.5" high-visibility, color display with touch screen
+                    option.
+                </li>
+            </ul>
+            <p><a href="/products/expediter-ftrs.shtml" class="bold"><em>EXPEDITER&trade;</em></a> - Our feature rich, web-based system &amp; knowledgeable staff make compliance convenient so customers can focus on their business.</p>
+            <ul>
+                <li>
+                    <strong>MIL-STD-129 RFID and Container labels</strong> ship same day and arrive overnight
+                </li>
+                <li>
+                    Most <strong>MIL-STD-130 UID labels</strong> ship in 3-5 days
+                </li>
+            </ul>
+            <p><a href="/pbrfid/rfid_labels/asn.jsp" class="bold"><em>EXPEDITER</em> ASN</a> - Just 3 clicks and we electronically upload your RFID data to WAWF within 1 business day.</p>
+            <p><a href="packaging.shtml" class="bold"><em>GuidedPackaging&trade;</em></a> - <em>GuidedPackaging</em> saves you money by using our expertise and your labor to bring Mil-Spec packaging in-house. We provide the quantity, type, price and two sources so you can confidently purchase the right packaging materials and pack as	specified in your contract.</p>
+       	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

@@ -1,0 +1,81 @@
+/*
+Tables
+**********************/
+$table-bg: #efefef;
+
+table {
+	margin:20px 0;
+	width: 100%;	
+	border: 1px;
+		
+	h1, h2, h3, h4 {margin:0}
+
+	&.labels {
+		td {		
+			text-align: center;			
+			&:nth-of-type(odd) {background-color: $table-bg}
+		}
+		th,tr {background:none !important}
+	}
+
+	&.border td {border:1px solid #ccc}	
+	&.ctr td {text-align:center}
+	&.lbl-width {width:308px;}
+	td {
+		padding:4px 8px;
+		vertical-align:top;		
+
+		// border: 1px solid #f00;
+	}
+	th {		
+		font-weight:bold;
+		text-shadow: 0 1px 0 white;
+		@extend td;	
+		
+		span {
+			position:relative;
+			top:30px;	
+		}
+	}
+}
+aside th {border-bottom: 1px solid #666;}
+.redtable {
+	background:$main-color;
+	color:#fff;
+	@include border-radius(5px);
+	@include box-shadow(rgba(black,.4), 0, 0, 5px);
+	
+	th{
+		color:#fff;
+		text-shadow: 0 -1px 0 rgba(black,.7);
+	}
+}
+caption{padding:2px}
+.odd {background: $table-bg}
+.redbg {background: $main-color}
+.nobg {background:none }
+table.bold tr td:first-child {font-weight:bold}
+.table-brdr {border:1px solid #EFEFEF}
+.brdr-r {border-right: 1px solid #000}
+.brdr-b {border-bottom: 1px solid #000}
+.brdr-t {border-top: 1px solid #000}
+.brdr-l {border-left: 1px solid #000}
+.sm-tbl {width:auto}
+.tbl-right {
+	@extend .right;
+	margin-left:0;	
+}
+.tbl-left {
+	@extend .left;
+	margin-right:0;	
+}
+
+// EXPEDITER
+
+.expediter {
+	table {
+		margin: 0;
+		
+	}
+}
+

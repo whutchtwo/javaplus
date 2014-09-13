@@ -1,0 +1,74 @@
+/*
+Drop Down
+**********************/
+#branding{
+	ul {
+		&.dropdown{
+			position:relative;
+			
+			li {
+				float:left;
+				zoom:1;
+				
+				a {display:block}
+				
+				&.hover,
+				&:hover {
+					position:relative;
+					
+					&> ul {
+						visibility:visible;
+					}	
+				}
+			}
+		
+			ul {
+				left: 0;			
+				position: absolute;
+				top: 100%;
+				visibility: hidden;				
+				
+				ul {
+					left:100%;
+					top:0;
+				}
+				
+				li{
+					float:none;
+					
+					a {
+						border-right:none;
+						width:100%;
+						display:inline-block;
+					}
+				}
+			}
+			
+			ul.sub-menu {
+				background:rgb(255,255,255);
+				//background:rgba(255,255,255,.9);
+				border:1px solid #ccc;
+				@include single-box-shadow(rgba(black,.04),0,0,5px,4px);
+
+				float:left;
+				
+				a {		
+					color: #777;
+					float:left;
+					line-height:1.1;
+					padding:5px;	
+					text-transform: none;
+					width:197px;	
+
+					&:hover{
+						color:#000;
+					};
+
+				}
+			}
+		}
+	}
+
+	#nav-about .sub-menu {margin-left:-67px}
+}
+

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>We'll tell you where to stick MIL-STD-129 labels and RFID</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, military shipping label, DoD RFID label, unit container labels, exterior container labels" name="keywords">
+    <meta content="We'll tell you where to stick MIL-STD-129 labels and RFID" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="rfid">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->        
+    <div id="content-outer">
+        <section>
+            <h1><em>EXPEDITER</em>&trade; tells you where to stick it...</h1>
+            <p>Review the diagrams below to see where to place MIL-STD-129 labels.</p>
+			<ul class="no-blt">
+	            <li class="left">
+         	       <figure>
+                   <figcaption><p>Click image to see which label to stick on which box.</p></figcaption>
+                   <a href="/images/unpallet_labelled.jpg" title="Unpalleted Label Placements" rel="lightbox"><img src="/images/unpallet_nolabel.gif" width="432" height="528" alt="Unpalleted Label Placements"></a>
+                   </figure>
+                </li>
+    	        <li class="right">
+                	<figure>
+                    <figcaption><p>Click image to see which label to stick on which box.</p></figcaption>
+                    <a href="/images/palleted_labels.jpg" title="Palleted Label Placements" rel="lightbox"><img src="/images/palleted_nolabel.gif" width="336" height="400" alt="Palleted Label Placements"></a>
+                    </figure>
+                </li>
+			</ul>
+            <h2>Where to stick RFID labels...</h2>
+            <ul>
+                <li>Affix the label to minimize the risk of damage and maximize the potential for successful interrogation.</li>
+                <li>Do NOT place the label over a seam or place sealing tape or bands over the label which interferes with bar code scanning and RFID reading.</li>
+                <li>Place RFID labels to ensure a minimum separation between them of at least 10 cm (4 in).  Never overlap.</li>
+                <li>Place the RFID label on the identification-marked side and right of center on a vertical face, allowing a minimum of 5 cm (2 in) from all edges</li>
+			</ul>
+            <h4><img src="/images/stick-1.gif" width="454" height="242" alt="Compliance Label Services" class="left">Placement on a Box (Shipping or Exterior Container)</h4>  
+            <p>The label should be placed on the identification-marked side and right of center on a vertical face, allowing a minimum of 5 cm (2 in) from all edges.</p>  
+            <p>An additional label may be placed on the identification-marked end for styles that, because of their configuration, allow access by materials handling equipment only to the end of the container.</p> 
+			<h4 class="clear">Placement on a Pallet (Palletized Unit Load)</h4> 
+            <p><img src="/images/stick-2.gif" width="334" height="288" alt="Compliance Label Services" class="right">The bottom edge of the Military Shipping Label should be within 81-122 cm (32-48 in) from the bottom of the pallet (palletized unit load).</p>  
+            <p>If the loaded pallet is less than 102 cm (40 in) in height, the label should be placed as high as possible on the palletized unit load, but not closer than 5 cm (2 in) from the top of the load.</p>
+			<p>This information was sourced from the U.S. DoD Suppliers' Passive RFID Information Guide Version 10.0.</p>
+			<h4 class="clear">Best Practices</h4>
+            <p><strong>Static</strong> – RFID labels are sensitive to static electricity and can be destroyed by improper handling.  Before removing the label from its static resistant bag into a dry and/or heated environment, diffuse static electricity by touching grounded equipment.  Beware of the static build up on shrink wrap.  Before applying a label directly to shrink wrap, reduce static electricity by wiping the shrink wrap with a slightly damp cloth.</p> 
+			<p><strong>Substrate</strong> – Apply RFID labels to packaging such as corrugated cardboard or chip board (never directly to metal).  Consider the contents of each container. Find the surface which is most distant from the contents. A 2" gap is desired.  For instance, if liquid-filled containers are in the box, place the RFID label near the top where the neck of the bottle creates air space.  Metal parts interfere with RFID tags and a 2" gap is crucial for successful RFID interrogation.  Special RFID labels are available which increase successful RFID interrogation close to metals.</p> 
+
+
+            
+            
+            
+
+            
+            
+       	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

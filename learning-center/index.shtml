@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129 &amp; MIL-STD-130 - Learn - Compliance Label Service</title>
+	<!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+    <meta content="MIL-STD-129 &amp; MIL-STD-130 - Learn - Compliance Label Service" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="learning">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+			<h1>Resources to make compliance easy</h1>
+            <p>The mission of Compliance Label Service is to save you time and money in achieving DoD and GSA compliance. That's why we created this extensive Learning Center. It will help decipher the RFID and Container label regulations of MIL-STD-129 and the UID marking regulations of MIL-STD-130, as well as their accompanying Defense Federal Acquisition Regulation Supplement (DFARS). It will also assist your understanding of ASN's, WAWF and Military Packaging. The Compliance Label Service Learning Center will even help you 'speak DoD' - see Glossary of terms and Military Alphabet. If you have any additional questions, please contact us.</p>
+            <h2>Contents of the Learning Center include:</h2>
+            <p><strong><a href="/learning-center/129-rfid-compliance.shtml">RFID and MIL-STD-129 Compliance page</a></strong></p>
+            <p>Find FAQ's related to:</p>
+            <ul>
+                <li>RFID labels</li>
+                <li>RFID (Pack data) and ASN's to WAWF</li>
+                <li>Military Packaging</li>
+                <li>Military Packaging</li>
+            </ul>
+            <p><strong><a href="/learning-center/130-uid-compliance.shtml">UID and MIL-STD-130 Compliance page</a></strong></p>
+            <p>Compliance page</a></strong> Find FAQ's related to:</p>
+            <ul>
+                <li>UID labels</li>
+                <li>DoD Data Constructs and Headers</li>
+                <li>Uploads to WAWF and UID registry</li>
+            </ul>
+            <p><strong><a href="/learning-center/dod.shtml">DoD Regulations and Links page</a></strong></p>
+            <p>Find the regulations:</p>
+            <ul>
+                <li>MIL-STD's 129, 130, 2073</li>
+                <li>MIL-PRF-61002B, MIL-DTL-19834C</li>
+                <li>DFARS 252.211-7006 and 252.211-7003</li>
+            </ul>
+			<p>Links to:</p>
+            <ul>
+                <li>DoD publications</li>
+                <li>DoD UID and RFID websites</li>
+                <li>DLA Master contract for Automated Solicitations</li>
+            </ul>
+            <strong>How to 'speak DoD'</strong>
+            <ul>
+                <li><a href="/resources/DoD Dictionary jp1.pdf">DoD Dictionary of Military and Associated Terms</a> (PDF)</li>
+                <li><a href="/resources/Military Alphabet.pdf">US Military Alphabet</a> (PDF)</li>
+            </ul>            
+	   	</section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

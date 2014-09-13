@@ -1,0 +1,121 @@
+/*
+Utilities
+**********************/
+$main-color: #A00;
+$second-color: #444;
+
+@mixin nav-state{
+	background-color: rgb(201,0,0); // Old browsers
+	@include filter-gradient(#c90000, #aa0000, vertical); // IE6-9
+	@include background-image(linear-gradient(top,  rgba(201,0,0,1) 0%,rgba(170,0,0,1) 100%));
+	text-shadow: 0 -1px 0 rgba(0,0,0,.8);
+}
+
+@mixin button($pad-1, $pad-2, $disptype, $weight) {
+	background-color: $main-color; 
+	border:none;
+	color:#fff;
+	cursor:pointer;
+	display: $disptype;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: $weight;
+	padding:$pad-1 $pad-2;
+	text-decoration:none;
+	text-shadow: 0 -1px 0 rgba(black,.8);
+	@include border-radius(5px);
+	@include box-shadow(rgba(black,.3) 0 0 4px);
+	
+	&:hover {
+		background-color:lighten($main-color, 5%);
+		box-shadow: none;
+		color: #eee;
+	}
+}
+@mixin button-2($pad-1, $pad-2, $disptype, $weight) {
+	background-color: $second-color; 
+	border:none;
+	color:#fff;
+	cursor:pointer;
+	display: $disptype;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: $weight;
+	padding:$pad-1 $pad-2;
+	text-decoration:none;
+	text-shadow: 0 -1px 0 rgba(black,.8);
+	@include border-radius(5px);
+	@include box-shadow(rgba(black,.3)0 0 4px);
+	
+	&:hover {
+		background-color:lighten($second-color, 8%);		
+		box-shadow: none;
+		color: #eee;
+	}
+
+}
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {clear:both}
+.cf {zoom:1}
+.img-shdw {
+	@include box-shadow(rgba(0,0,0,.3) 0 0 5px);
+	border: 4px solid #fff;
+}
+.left {
+	float:left;
+	margin: 5px 60px 25px 0;	
+}
+.right {
+	float:right;
+	margin: 0 5px 25px 60px;	
+}
+.sm-float {
+	margin: 10px;	
+}
+.sm-float-l {
+	margin: 0 10px 0 0;	
+}
+.sm-float-r {
+	margin: 0 0 0 10px;	
+}
+.ctr {
+	display:block;
+	margin:15px auto;
+}
+.ctr-text {text-align:center}
+.section-brdr {
+	border-bottom:1px solid #ccc;
+	margin-bottom:30px;
+}
+.brdr {
+	padding-bottom:30px;
+	@extend .section-brdr;	
+}
+.inline-bl {display:inline-block}
+.inline {display:inline}
+.clear {clear:both}
+.clear-r {clear:right}
+.clear-l {clear:left}
+.bold {font-weight:bold}
+.txt-r {text-align:right}
+.txt-c {text-align:center}
+.txt-b {vertical-align:bottom}
+.col-1 {width: 630px}
+.col-2 {width: 180px}
+.half {width: 50%}
+.red {color:$main-color}
+.blue {color:blue;}
+.green {color:green;}
+.bold {font-weight:bold}
+.margin-zero {margin:0}
+.sm-text {font-size: 0.7857142857142857em}
+.white-txt td, .white-txt, .white-txt:hover{color: white;}
+
+.pod {
+	position:absolute;
+	right:224px;
+	top:300px;
+}
+.extra-margin{margin-top:30px;}

@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>MIL-STD-129, RFID, UID - Contact us - Compliance Label Service</title>
+    <!--#include virtual="/common/header-1.shtml" -->
+      <meta content="MIL-STD-129 labels, UID labels, MIL-STD-130 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, UID label, military shipping label, Mil std 130 label, DoD RFID label, DoD compliance help" name="keywords">
+      <meta content="MIL-STD-129, RFID, UID - Contact us - Compliance Label Service" name="description">
+      <!--#include virtual="/common/header-2.shtml" -->
+<body id="about">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->    
+    <div id="content-outer">
+        <section>
+            <h1>Please Contact Us</h1>
+            <p><img src="/images/new-stock/team-of-3.jpg" width="300" height="200" alt="Compliance Label Services" class="img-shdw right">By phone, FAX, mail or the form below</p>
+            <address>
+            <strong>Compliance Label Service</strong><br>
+            13 Wedgewood Drive, Suite 50<br>
+            Hopkinton, MA 01748<br>
+            (617) 314-7700 (phone &amp; FAX)
+            </address>
+			
+            <form onsubmit="return disableSubmit(this);" action="/pbrfid/contactus.do;jsessionid=" method="post" name="ContactUsForm" id="ContactUsForm">
+            <p><label for="firstName">First Name*</label>
+            <input type="text" value="" size="20" maxlength="15" name="firstName" id="firstName"></p>
+            <p><label for="lastName">Last Name*</label>
+            <input type="text" value="" size="20" maxlength="20" name="lastName" id="lastName"></p>				
+            <p><label for="emailAddress">Email Address*</label>
+            <input type="text" value="" size="40" maxlength="65" name="emailAddress" id="emailAddress"></p>				
+            <p><label for="confirmEmailAddress">Confirm Email Address*</label>
+            <input type="text" value="" size="40" maxlength="65" name="confirmEmailAddress" id="confirmEmailAddress"></p>				
+            <p><label for="address1">Address 1</label>
+            <input type="text" value="" size="30" maxlength="30" name="address1" id="address1"></p>				
+            <p><label for="address2">Address 2</label>
+            <input type="text" value="" size="30" maxlength="30" name="address2" id="address2"></p>				
+            <p><label for="city">City</label>
+            <input type="text" value="" size="20" maxlength="30" name="city" id="city"></p>				
+            <p><label for="state">State/Province</label>
+            <select name="state" id="state"><option selected="selected" value="">&lt;Select One&gt;</option>
+            <option value="A0">------- US STATES -------</option>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="OR">Oregon</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+            <option value="Z0">-- Canadian Provinces --</option>
+            <option value="AB">Alberta</option>
+            <option value="BC">British Columbia</option>
+            <option value="MB">Manitoba</option>
+            <option value="NB">New Brunswick</option>
+            <option value="NF">Newfoundland</option>
+            <option value="NT">Northwest Territories</option>
+            <option value="NS">Nova Scotia</option>
+            <option value="ON">Ontario</option>
+            <option value="PE">Prince Edward Island</option>
+            <option value="QC">Quebec</option>
+            <option value="SK">Saskatchewan</option>
+            <option value="YT">Yukon</option>
+            <option value="A1">----- US TERRITORIES ----</option>
+            <option value="AS">American Samoa</option>
+            <option value="FM">Fed. Micronesia</option>
+            <option value="GU">Guam</option>
+            <option value="MH">Marshall Island</option>
+            <option value="MP">N. Mariana Is.</option>
+            <option value="PW">Palau Island</option>
+            <option value="PR">Puerto Rico</option>
+            <option value="VI">Virgin Islands</option>
+            <option value="A2">----- Military APO/FPO ----</option>
+            <option value="AA">AMERICAS (AA)</option>
+            <option value="AE">EUROPE (AE)</option>
+            <option value="AP">PACIFIC (AP)</option></select></p>				
+            <p><label for="zipPostalCode">ZIP/Postal Code</label>
+            <input type="text" value="" size="20" maxlength="10" name="zipPostalCode" id="zipPostalCode"></p>				
+            <p><label for="country">Country</label>
+            <input type="text" value="" size="20" maxlength="10" name="country" id="country"></p>				
+            <p><label for="daytimePhone">Daytime Phone</label>
+            <input type="text" value="" size="20" maxlength="20" name="daytimePhone" id="daytimePhone"></p>				
+            <p><label for="eveningPhone">Evening Phone</label>
+            <input type="text" value="" size="20" maxlength="20" name="eveningPhone" id="eveningPhone"></p>	            			
+            <label>Request*</label> 
+            <p class="clear">Please type your request for information, question or feedback in the box below; then click the "Submit Request" button.</p>
+            <p><textarea rows="5" cols="50" name="requestMessage"></textarea></p>
+            <p><input type="submit" value="Submit Request" name="actionBtn"><input type="reset" value="Clear Form"></p>
+            </form>
+      </section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->

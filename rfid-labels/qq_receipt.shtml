@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Quick Quote Receipt</title>
+    <!--#include virtual="/common/header-1.shtml" -->
+    <meta content="MIL-STD-129 labels, military shipping labels, DoD RFID labels, MIL-STD-129 label, military shipping label, DoD RFID label, unit container labels, exterior container labels" name="keywords">
+    <meta content="We'll tell you where to stick MIL-STD-129 labels and RFID" name="description">
+    <!--#include virtual="/common/header-2.shtml" -->
+<body id="rfid">
+<div id="wrapper">
+    <!--#include virtual="/common/branding.shtml" -->   
+    <div id="content-outer">
+    <section>
+    <h1><em>EXPEDITER</em> MIL-STD-129 Quick Quote</h1>
+    <form action="#" method="post" name="quick-quote">
+    <table cellspacing="0" summary="EXPEDITER Quick Quote" class="qq-receipt">
+    <tr>
+        <td colspan="6">&raquo;&raquo;<a href="#">Remove Contact Accounting</a></td>
+    </tr>
+    <tr>
+        <td colspan="5" class="txt-r">Contract</td>
+        <td class="txt-c">Quick Quote</td>
+    </tr>
+    <tr>
+        <td colspan="5" class="txt-r">Shipment</td>
+        <td class="txt-c">Quick Quote</td>
+    </tr>
+    <tr>
+        <td colspan="5" class="txt-r">CLIN</td>
+        <td class="txt-c">Quick Quote</td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td class="txt-c"><a href="#">View/Edit</a></td>
+        <td class="txt-c"><strong>Total Qty</strong></td>
+        <td class="txt-c"><strong>Unit Price</strong></td>
+        <td class="txt-c"><strong>Subtotal</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2">Set up charge<br>1st CLIN $14.95, add $10.00 for RFID, unlimited add'l CLIN's $15.00</td>
+        <td class="txt-c"></td>
+        <td class="txt-c"></td>
+        <td class="txt-c"></td>
+        <td class="txt-c">$14.95</td>
+    </tr>
+    <tr>
+        <th colspan="6" class="odd"><h3>MIL-STD-129 Labels with RFID</h3></th>
+    </tr>
+    <tr>
+        <td colspan="2">4x6 Military Shipping Label w/ RFID</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c"></td>
+        <td class="txt-c"></td>
+    </tr>
+    <tr>
+        <td colspan="2">4x6 Exterior Container Label w/ RFID</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c"></td>
+        <td class="txt-c"></td>
+    </tr>
+    <tr>
+        <td colspan="2" class="txt-r">Total</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c">0</td>
+        <td class="txt-c">.00</td>
+        <td class="txt-c">.00</td>
+    </tr>
+    <tr>
+        <th colspan="6" class="odd"><h3>MIL-STD-129 Labels without RFID</h3></th>
+    </tr>
+    <tr>
+        <td colspan="2">Military Container Label<br>4x6 Military Shipping Label</td>
+        <td class="txt-c" rowspan="4">1</td>
+        <td class="txt-c" rowspan="4">1</td>
+        <td class="txt-c" rowspan="4">1.75</td>
+        <td class="txt-c" rowspan="4">1.75</td>
+    </tr>
+    <tr>
+        <td>Exterior Container Label</td>
+    </tr>
+    <tr>
+        <td>Unit Container Label</td>
+    </tr>
+    <tr>
+        <td>Intermediate Container Label</td>
+    </tr>
+    <tr>
+        <th class="odd" colspan="6"><h3>Shipping and Handling</h3></th>
+    </tr>
+    </table>
+    <table cellspacing="0" class="qq-receipt shipping">
+    <tr>
+        <td colspan="4"><label for="fedex-priority-onight"><input type="radio" name="shipping" value="fedex-priority-onight" id="fedex-priority-onight"> FedEx PRIORITY Overnight</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="fedex-stdrd-onight"><input type="radio" name="shipping" value="fedex-stdrd-onight" id="fedex-stdrd-onight"> FedEx STANDARD Overnight</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="fedex-2day"><input type="radio" name="shipping" value="fedex-2day" id="fedex-2day"> FedEx 2-Day</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="fedex-ground-usps"><input type="radio" name="shipping" value="fedex-ground-usps" id="fedex-ground-usps"> FedEx Ground or USPS</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="handling-onight"><input type="radio" name="shipping" value="handling-onight" id="handling-onight"> Handling ONLY Overnight</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="handling-2day"><input type="radio" name="shipping" value="handling-2day" id="handling-2day"> Handling ONLY 2-Day</label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4"><label for="handling-ground"><input type="radio" name="shipping" value="handling-ground" id="handling-ground"> Handling ONLY Ground<label></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan="4" class="txt-r">Shipping and Handling</td>
+        <td class="txt-r">25.00</td>
+    </tr>
+    <tr>
+        <td width="100%" class="txt-r redbg white-txt" colspan="4">Total</td>
+        <td class="txt-r">$41.70</td>
+    </tr>
+    <tr>
+        <td colspan="4">If you choose uPrint-it PDF's and print all non-RFID labels yourself, you can save</td>
+        <td class="txt-r">$</td>
+    </tr>
+    <tr>
+        <td colspan="5" align="center">
+        <table cellspacing="0">
+        <tr align="center">
+            <td><a href="/" class="int-btn int-btn2">Home</a></td>
+            <td><a href="#" class="int-btn int-btn2">Print this page</a></td>
+            <td><a href="/pbrfid/newRegistration.do" class="int-btn">FREE! Get started <em>EXPEDITER</em></a></td>
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+    </form>
+    </section>
+    </div>    
+</div>
+<!--#include virtual="/common/footer.shtml" -->
