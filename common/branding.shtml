@@ -73,12 +73,12 @@
     </ul>
     </nav>    
     <a href="/pbrfid/myCompliance.do" class="btn-2 b-left"><em>EXPEDITER</em> Login</a>
-    <a href="/pbrfid/newRegistration.do" class="btn-1 txt-c">Free! Get started<br/><em>EXPEDITER</em></a>
+    <a href="/ang/newregindex.html#/settings/newuser" class="btn-1 txt-c">Free! Get started<br/><em>EXPEDITER</em></a>
     <form id="cse-search-box" action="/search.shtml">
     <input type="hidden" value="016669813359688099330:ercayz8er-o" name="cx">
     <input type="hidden" value="FORID:10" name="cof">
     <input type="hidden" value="UTF-8" name="ie">
-    <input type="text" size="20" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);">
+    <input type="text" size="20" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;https://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);">
     <input type="submit" value="Search" name="sa">
     <input type="hidden" name="siteurl" value="72.167.244.124/rfid_labels/overview.htm">
     </form>
