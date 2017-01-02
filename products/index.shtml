@@ -85,95 +85,7 @@
                     weatherability)
                 </li>
             </ul>
-            <h2>Software</h2>
-            <ul>
-                <li>
-                    <strong>Mil-Pac Std-Barc</strong> - time-tested software for
-                    generating DoD compliance. Std-Barc encodes MIL-STD-129
-                    compliant RFID labels. It prints MIL-STD-129 Unit, Intermediate
-                    and Exterior Container Labels, Military Shipping Labels (MSL's)
-                    and MIL-STD-130 Unique Identifier (UID) Labels.
-                </li>
-                <li>
-                    <strong>Mil-Pac Load Manager</strong> - works with Std-Barc to
-                    generate WAWF Advance Shipment Notices (ASN's ) for RFID labels
-                    created by Std-Barc. It also supports ASN creation for UID
-                    containers and palletized loads. With a Value Added Network
-                    (VAN), RFID Load Manager uploads ASN data to WAWF.
-                </li>
-                <li>
-                    <strong>Mil-Pac DD Master</strong> - automated contract-driven
-                    shipment manager for WAWF Receiving Report and Invoice
-                    generation. Designed specifically to support contracts requiring
-                    multiple shipments. Includes a contract status report generator,
-                    WAWF and Receiving Report forms. Also includes support for WAWF
-                    and UID Registry transaction generation and upload via Value
-                    Added Network (VAN).
-                </li>
-            </ul>
-            <h2>Thermal transfer RFID printers</h2>
-            <ul>
-                <li>
-                    <strong>Printronix 5204R MP2</strong> &ndash; Heavy duty, 4" width,
-                    203 dpi, high performance UHF RFID printer/encoder with
-                    EPCglobal Gen 2 Certification. It offers advanced XML-based RFID
-                    print and control platforms with real-time XML printer and job
-                    control as well as XML forms printing. It features Unicode with
-                    TrueType font support. (NOTE: Compliance Label Service has many
-                    of these in operation. The oldest dates to 2004 and performs
-                    like new.)
-                </li>
-                <li>
-                    <strong>Zebra 110xi</strong> &ndash; Heavy duty, 4" width, 203 dpi,
-                    high performance UHF RFID printer/encoder with EPCglobal Gen 2
-                    Certification. It offers advanced XML-based RFID print and
-                    control platforms with real-time XML printer and job control as
-                    well as XML forms printing. It features a ThingMagic UHF RFID
-                    Reader /Encoder. (NOTE: Compliance Label Service also has these
-                    in operation.)
-                </li>
-            </ul>
-            <h2>Hand Held RFID readers</h2>
-            <ul>
-                <li>
-                    <strong>Unitech</strong> &ndash; This medium duty, hand held RFID
-                    reader is perfect for demonstrating RFID and barcode compliance
-                    to your QAR. We integrate and test the Unitech Hand Held
-                    computer and barcode reader with a WJ PCMCIA card short range
-                    RFID reader with integrated antenna. The Unitech has a 2D
-                    Imager, 400MHZ, 64MB Flash, 64MB RAM, WinCE PDT with Li-Ion
-                    battery, A/C adapter, USB communication cable, CD-ROM with
-                    manuals, The Operating System is CE.NET 4.2. It comes with
-                    built-in Bluetooth and 36 Key Keypad. Includes Quick Start
-                    Documentation written by Compliance Label Service. (NOTE:
-                    Compliance Label Service has used this hardware as part of our
-                    Quality Control processes for over three years without issues or
-                    downtime.)
-                </li>
-                <li>
-                    <strong>Motorola/Symbol</strong> &ndash; This heavy duty, hand held
-                    RFID reader is an industry standard. The Motorola/Symbol
-                    MC9090-G RFID EPC GEN 2 comes with WLAN 802.11 A/B/G 1D/2D
-                    Imager, Color Touch screen, 64MB Flash, 128MB RAM, 53 Key
-                    Keypad, Windows Mobile 5.0, Bluetooth, Single slot charging and
-                    communications cradle. Includes USB Communications cable, Power
-                    supply with CD cable and AC line cord. (NOTE: Compliance Label
-                    Service has used this hardware as part of our Quality Control
-                    processes for over four years without issues or downtime.)
-                </li>
-                <li>
-                    <strong>LXE</strong> &ndash; This heavy duty, hand held RFID reader is
-                    the most rugged on the market. You can drop it, hose it down,
-                    and freeze it without ill effect. With active display technology
-                    options, it can be customized for easy viewing in dimly lit
-                    warehouses or outdoors. It is equipped with a powerful
-                    Intel&reg;XScale&reg; processor, and runs industry standard, Windows&reg; CE
-                    .NET or Windows&reg; CE 5.0 Professional Operating System. It
-                    features a 6.5" high-visibility, color display with touch screen
-                    option.
-                </li>
-            </ul>
-            <p><a href="/products/expediter-ftrs.shtml" class="bold"><em>EXPEDITER&trade;</em></a> - Our feature rich, web-based system &amp; knowledgeable staff make compliance convenient so customers can focus on their business.</p>
+            <p><a href="/products/expediter-ftrs.shtml" class="bold"><span class="med-font"><em>EXPEDITER&trade;</em></span></a> - Our feature rich, web-based system &amp; knowledgeable staff make compliance convenient so customers can focus on their business.</p>
             <ul>
                 <li>
                     <strong>MIL-STD-129 RFID and Container labels</strong> ship same day and arrive overnight
@@ -182,8 +94,8 @@
                     Most <strong>MIL-STD-130 UID labels</strong> ship in 3-5 days
                 </li>
             </ul>
-            <p><a href="/pbrfid/rfid_labels/asn.jsp" class="bold"><em>EXPEDITER</em> ASN</a> - Just 3 clicks and we electronically upload your RFID data to WAWF within 1 business day.</p>
-            <p><a href="packaging.shtml" class="bold"><em>GuidedPackaging&trade;</em></a> - <em>GuidedPackaging</em> saves you money by using our expertise and your labor to bring Mil-Spec packaging in-house. We provide the quantity, type, price and two sources so you can confidently purchase the right packaging materials and pack as	specified in your contract.</p>
+            <p><a href="/pbrfid/rfid_labels/asn.jsp" class="bold"><span class="med-font"><em>EXPEDITER</em> ASN</span></a> - Just 3 clicks and we electronically upload your RFID data to WAWF within 1 business day.</p>
+            <p><a href="packaging.shtml" class="bold"><span class="med-font"><em>GuidedPackaging&trade;</em></span></a> - <em>GuidedPackaging</em> saves you money by using our expertise and your labor to bring Mil-Spec packaging in-house. We provide the quantity, type, price and two sources so you can confidently purchase the right packaging materials and pack as	specified in your contract.</p>
        	</section>
     </div>    
 </div>

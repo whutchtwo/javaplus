@@ -18,7 +18,7 @@
                 
                 <dt><a href="#">Why has RFID technology been implemented in 
                 the DoD Supply Chain?</a></dt>
-                <dd>(Excerpted from <a href="http://www.acq.osd.mil/log/rfid">www.acq.osd.mil/log/rfid</a>)
+                <dd>(Excerpted from <a href="http://www.acq.osd.mil/log">www.acq.osd.mil/log</a>)
                 <p>The implementation of RFID enables the improvement of data quality, item management, asset visibility, and maintenance of material. RFID addresses a key challenge that has been observed at every node within the DoD supply chain - lack of visibility of logistics data. The use of RFID in the DoD supply chain has the potential to provide real benefits in inventory management, asset visibility and interoperability in an end-to-end integrated environment. RFID encapsulates the data accuracy advantages inherent in all types of Automatic Identification Technology (AIT). Additionally, RFID is a non-intrusive methodology for data capture (requires no human intervention), and, unlike barcodes, does not require line-of-sight to be read. RFID is a key technology enabler for the DoD logistics business transformation and supports long-term integration of Item Unique Identification (IUID) into the DoD end-to-end supply chain. RFID (both active and passive) is required by DoD to:</p>
                     <ol>
                         <li>Provide near real-time in-transit visibility for all classes of supplies and material.</li>
@@ -46,7 +46,7 @@
                 
                 <dt><a href="#">Which 'ship to' locations require RFID?</a></dt>
                 <dd><p>
-                The DoD maintains an updated list of ‘ship to’ locations requiring RFID per DFARS Clause 252.211-7006 at <a href="http://www.acq.osd.mil/log/rfid/r_dfars_list.html" target="_blank">http://www.acq.osd.mil/log/rfid/r_dfars_list.html</a>. However, you MUST read your individual contract carefully, because additional locations requiring RFID may be identified for specific shipments.
+                The DoD maintains an updated list of ‘ship to’ locations requiring RFID per DFARS Clause 252.211-7006 at <a href="http://www.acq.osd.mil/log/sci/RFID_ship-to-locations.html" target="_blank">http://www.acq.osd.mil/log/sci/RFID_ship-to-locations.html</a>. However, you MUST read your individual contract carefully, because additional locations requiring RFID may be identified for specific shipments.
                 </p>  
                 </dd>
                 
@@ -65,7 +65,7 @@
 				Serial Number: 36 bits</p></dd>
             
                 <dt><a href="#">What is Wide Area Workflow (WAWF)?</a></dt>
-                <dd><p>Wide Area Workflow (WAWF) is the DoD's secure web-based system for electronic invoicing, government inspection, receipt and acceptance. It enables electronic form submission, processing and acceptance. It creates a virtual folder housing all contact-related documents and sign-offs required to pay a vendor including the contract, invoice and Receiving Report. Authorized DoD users are notified of pending actions by e-mail and are presented with a collection of documents required to process a contracting or financial action. WAWF has reduced the number of days it takes for DoD contractors to get invoices approved and paid by. Resources can be found on the web at <a href="https://wawf.eb.mil/xhtml/unauth/web/homepage/HomePage.xhtml" target="_blank">https://wawf.eb.mil/xhtml/unauth/web/homepage/HomePage.xhtml</a>.</dd>
+                <dd><p>Wide Area Workflow (WAWF) is the DoD's secure web-based system for electronic invoicing, government inspection, receipt and acceptance. It enables electronic form submission, processing and acceptance. It creates a virtual folder housing all contact-related documents and sign-offs required to pay a vendor including the contract, invoice and Receiving Report. Authorized DoD users are notified of pending actions by e-mail and are presented with a collection of documents required to process a contracting or financial action. WAWF has reduced the number of days it takes for DoD contractors to get invoices approved and paid by.</dd>
                 
                 <dt><a href="#">What is the ASN requirement for RFID?</a></dt>
                 <dd><p>Sending an Advanced Ship Notice (ASN) to WAWF is the second part of the RFID regulation per RFID DFARS clause, 252.211-7006. The ASN is not a new process. It just adds the submission of RFID data to the Material Inspection Receiving Report (MIRR) sent to WAWF. MIRR is the on-line version of the now defunct, paper DD250. The RFID data are the 24 characters encoded on the RFID chip and printed on the Military Shipping Label or Exterior Container Label of every case and pallet of each shipment. For example: 2F1203337515435000000017.</p></dd>

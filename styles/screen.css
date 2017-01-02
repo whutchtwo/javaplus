@@ -1851,3 +1851,13 @@ td.panel, table th.panel {
 #new-registration input[value="Update My account"], #update-user input[value="Update My account"] {
   float: right;
 }
+
+.med-font {
+	font-size: 18px;
+}
+
+.dod-comp {
+	position: absolute;
+    top: 760px;
+    left: 380px;
+}

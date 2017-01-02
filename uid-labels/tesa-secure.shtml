@@ -29,12 +29,14 @@
             <tr><td>Salt spray</td><td>Very Good</td></tr>
             <tr><td>Direct impact</td><td>No</td></tr>
             </table>
+            <p class="left clear-l"><small>See <a a href="/images/tesa_Secure_6973.pdf" target="_blank">technical specifications</a></small></p>
             <h2><em>EXPEDITER</em>&trade; tesa&reg; Secure&trade; UID labels are:</h2>
             <ul>
                 <li>Made of tesa&reg; Secure&trade; 6973 tape consisting of a double-layered, highly cross-linked poly-acrylic film, a modified poly-acrylic adhesive and a dimensionally stable release paper</li>
                 <li>Laser etched, providing excellent contrast white copy on the matte black label</li>
                 <li>Laser cut to provide custom shapes and sizes</li>
 			</ul>
+			<div>
 			<div class="pod">
                 <img src="/images/uidlabel_tesa_secure.gif" width="251" height="102" alt="Compliance Label Services" class="right img-shdw">
                 <h3 class="clear">Choice of size</h3>
@@ -46,14 +48,18 @@
                     <li>2” round</li>
                     <li>Custom sizes and shapes</li>
                 </ul>
-                <p class="right"><a href="/ang/nmindex.html#/contactus" class="int-btn ctr-text">Call (617) 314-7700 or Email for Quote<br><br>tesa&reg; Secure&trade; UID ship in 5 - 9 days<br>RUSH service is available</a></p>
+                <p class="right"><a href="/ang/nmindex.html#/contactus" class="int-btn ctr-text">Call (617) 314-7700 or Email for Quote<br><br>tesa&reg; Secure&trade; UID ship in 7 – 10 days</a></p>
             </div>
-			<h3 class="clear-l">Complete DoD compliance</h3>
+            <div class="dod-comp">
+           	<h3 class="clear-l">Complete DoD compliance</h3>
             <ul>
                 <li>2D Data Matrix barcode per MIL-STD-130 and ECC200 standards</li>
                 <li>Certificate of Compliance with MIL-STD-130</li>
                 <li>Verification and Validation reports per MIL-STD-130 using ISO/IEC 15415, AS9132 or AIM-DPM-12006</li> 
 			</ul>
+			</div>
+			</div>
+
    		</section>
     </div>    
 </div>

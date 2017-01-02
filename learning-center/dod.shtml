@@ -15,38 +15,32 @@
 			<h2>MIL-STD-129 Compliance: RFID, Container Labels, ASN</h2>
             <ul>
             	<li><a href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/252211.htm#252.211-7006">DFARS 252.211-7006 Passive Radio Frequency Identification</a></li>
-                <li><a href="http://www.acq.osd.mil/log/rfid/r_suppliers_guide.html">DoD Passive RFID Suppliers Guide</a></li>
-                <li><a href="http://www.acq.osd.mil/log/rfid/index.htm">DoD RFID website</a></li>
+                <li><a href="/images/DoD_Suppliers_Passive_RFID_Info_Guide_v15update.pdf">DoD Passive RFID Suppliers Guide</a></li>
+                <li><a href="http://www.acq.osd.mil/log/sci/RFID_FAQs.html#RFID_TECH">DoD RFID website</a></li>
             </ul>
             <h2>MIL-STD-130 Compliance: UID</h2>
             <ul>
                 <li>MIL-STD-130N: Identification Marking of U.S. Military Property (PDF)</li>
                 <li><a href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/252211.htm#252.211-7003">DFARS 252.211-7003, Item Identification and Valuation</a> Requires items be marked with a unique item identifier (UII) in accordance with MIL-STD-130. Contracting officers are to include the DFARS clause in all solicitations and contracts that require delivery of one or more items that meet the IUID criteria. The provisions of the DFARS clause in the contract are mandatory.</li>
                 <li><a href="http://www.acq.osd.mil/dpap/UID/attachments/DoDUIDGuideVer2_5.pdf">DoD Guide to Uniquely Identifying Items</a></li>
-                <li><a href="http://www.iuidtoolkit.com">DoD UID tookit</a>. This extensive site includes numerous DoD tools, tutorials, videos and other resources covering IUID policy and implementation roadmaps for DoD suppliers and others.</li>
                 <li><a href="http://www.acq.osd.mil/dpap/pdi/uid/index.html">DoD UID Program Office website</a></li>
             </ul>
             <h2>Packaging</h2>
             <ul>
                 <li>MIL-STD-2073-1E: Standard Practice for Military Packaging (PDF)</li>
                 <li>MIL-STD-2073-1D: Standard Practice for Military Packaging (PDF)</li>
-                <li><a href="http://www.dscc.dla.mil/Offices/Packaging/">DLA packaging website</a></li>
+                <li><a href="http://www.dla.mil/LandandMaritime/Offers/Services/TechnicalSupport/Logistics/Packaging/PackSpecStdMan.aspx">DLA packaging website</a></li>
             </ul>
             <h2>Wide Area Workflow (WAWF)</h2>
             <ul>
                 <li><a href="https://wawf.eb.mil/">WAWF registration and site</a></li>
-                <li><a href="http://www.wawftraining.com/">Web-based training</a></li>
             </ul>
             <h2>Labels and Identification plates</h2>
             <ul>
                 <li>MIL-PRF-61002B: Pressure-Sensitive Adhesive Labels for Bar Coding (PDF)</li>
                 <li>MIL-DTL-19834C: Plates, Identification or Instruction, Metal Foil, Adhesive Backed General Specification for (PDF)</li>
                 <li>MIL-DTL-32075: Label: For Clothing, Equipage, and Tentage, (General Use) (PDF)</li>
-            </ul>
-            <h2>Contract</h2>
-            <ul>
-                <li><a href="http://www.dla.mil/Acquisition/Documents/EProcurement%20DLA_Automated_Master_Solicitation_REV4May2012.docx">DLA Master Solicitation for Automated Solicitations and Resulting Awards</a></li>
-            </ul>            
+            </ul>          
     	</section>
     </div>    
 </div>

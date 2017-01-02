@@ -14,7 +14,7 @@
             <h1><em>EXPEDITER</em>'s MIL-STD-129 label choices</h1>
             <section class="content-inner section-brdr">
                 <figure class="left col-2">
-                    <a href="/content/rfid_labels/militaryshippinglabelMSL.html"><img src="/images/label_mil_ship_4by6.gif" width="200" height="300"></a>
+                    <a href="/content/rfid_labels/militaryshippinglabelMSL.html"><img src="/images/Sample_MSL_wRFID.jpg" width="200" height="300"></a>
                     <img src="/images/squiggly.gif" class="left sm-float-l">
                     <figcaption>MSL's are 4" x 6"</figcaption>
                     <p class="sm-text">The MSL is DoD's address label. MIL-STD-129 requires one on every:</p>
@@ -44,7 +44,7 @@
             </section>
             <section class="content-inner section-brdr">	            
                 <figure class="left col-2">
-                    <a href="/content/rfid_labels/exteriorcontainerlablelECL.html"><img src="/images/label-ext-cont.gif" width="180" height="236" alt="ECL Label Exterior Container"></a>
+                    <a href="/content/rfid_labels/exteriorcontainerlablelECL.html"><img src="/images/Sample_ECL_with_RFID_(MIL-STD-129R).jpg" width="180" height="236" alt="ECL Label Exterior Container"></a>
                     <img src="/images/squiggly.gif" class="left sm-float-l">
                     <figcaption>ECL's are 4" x 6"</figcaption>
                     <p class="sm-text">The ECL is DoD's contents label. MIL-STD-129 requires one on every:</p>
